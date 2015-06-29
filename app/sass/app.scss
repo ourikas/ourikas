@@ -1,3 +1,66 @@
-input {
-  width: 100%;
+$link-color: #2980b9;
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  padding: 0 10px;
+
+  h1 {
+    color: #3498db;
+    text-align: center;
+    margin: 5px;
+  }
+
+  .search-field {
+    width: 100%;
+    border: solid 1px gray;
+    height: 3em;
+    padding: 5px;
+    box-sizing: border-box;
+    color: #34495e;
+  }
+
+  ul.search-result {
+    padding: 10px 0;
+
+    li.company {
+      list-style: none;
+      margin: 10px 0;
+
+      h3 {
+        font-size: 1em;
+        color: #34495e;
+      }
+
+      p,
+      h3 {
+        margin: 0;
+        padding: 0;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      .description {
+        font-size: .8em;
+        color: #7f8c8d;
+      }
+
+      .phone {
+        color: $link-color;
+        margin-right: 12px;
+      }
+
+      img {
+        width: 61px;
+        height: 61px;
+        float: left;
+        margin-right: 10px;
+        border-radius: 50%;
+      }
+    }
+  }
+
 }

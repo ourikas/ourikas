@@ -15,25 +15,28 @@
   <link rel="stylesheet" href="app.css">
   <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
-<body>
+<body ng-app="myApp">
 
   <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
 
-  <div>
+  <main ng-controller="SearchController">
     <h1>Ourikas</h1>
+    <input class="search-field" placeholder="buscar..." type="search" ng-model="searchTerm" autofocus>
 
-    <div ng-app="myApp" ng-controller="SearchController">
-
-      <input type="search" ng-model="searchTerm" autofocus>
-
-      <div ng-repeat="c in searchResult">
-        <h3 ng-bind="c.name"></h3>
+    <ul class="search-result">
+      <li ng-repeat="c in searchResult" class="company">
         <img ng-src="{{c.thumb}}" alt="" />
-      </div>
-    </div>
-  </div>
+
+        <h3 ng-bind="c.name"></h3>
+        <p ng-bind="c.description" class="description"></p>
+        <p>
+          <a href="{{'tel://' + p}}" class="phone" ng-repeat="p in c.contact.phones" ng-bind="p"></a>
+        </p>
+      </li>
+    </ul>
+  </main>
 
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script>
   <script src="app.js"></script>
