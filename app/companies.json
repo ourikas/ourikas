@@ -1,0 +1,6727 @@
+[
+   {
+      "name":"Ourikas",
+      "alias":"ourikas",
+      "id":"44",
+      "contact":{
+         "phones":[
+            "87 3874-3411"
+         ],
+         "site":"http://ourikas.com",
+         "facebook":"https://www.facebook.com/ourikasoficial",
+         "email":"contato@ourikas.com"
+      },
+      "address":{
+         "street":"",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3991d0728e1fdf4d3c8ce52ce50f85bd.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3991d0728e1fdf4d3c8ce52ce50f85bd.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Chácara Lúmen",
+      "alias":"chacara-lumen",
+      "id":"63",
+      "contact":{
+         "phones":[
+            "87 9118 2428",
+            "87 9998 6082"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/Ch%C3%A1cara-L%C3%BAmen/166570296800317",
+         "email":"chacaralumen@hotmail.com"
+      },
+      "address":{
+         "street":"Fazenda Teiu",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.906764, -40.024594",
+      "image":"http://www.ourikas.com/media/empresas/intro/a19ada1a877497f3757fda0024cc19ef.jpg",
+      "galery":[
+         "478d08154d229f1f755228da4f826770.jpg",
+         "5b8efacf26a9d6bb6558fff5aecd6f8c.jpg",
+         "8fc29ea41c07add2ea617fac76d9389d.jpg",
+         "c4bcde64124293b83e0d24059e93c5a6.jpg",
+         "d79a65c3f6e2369662cb44143c8f7aa0.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a19ada1a877497f3757fda0024cc19ef.jpg",
+      "status":"1"
+   },
+   {
+      "name":"O Cangaceiro",
+      "alias":"o-cangaceiro",
+      "id":"64",
+      "contact":{
+         "phones":[
+            "87 9636 8176"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/Cervejaria-O-Cangaceiro/521925601191731",
+         "email":"ernandes.alencar.9@gmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.888152, -40.081667",
+      "image":"http://www.ourikas.com/media/empresas/intro/30a3855b17c82022ca36101c939e817a.jpg",
+      "galery":[
+         "7a31c5469dede5c365e73b7641b93521.jpg",
+         "d4108e2edea4fb25a5c680aff39cebac.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-30a3855b17c82022ca36101c939e817a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lisbella",
+      "alias":"lisbella",
+      "id":"65",
+      "contact":{
+         "phones":[
+            "87 3874 1696"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.885235, -40.084620",
+      "image":"http://www.ourikas.com/media/empresas/intro/792f850027504169a45d2d47dd499dd8.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-792f850027504169a45d2d47dd499dd8.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Farmácia Cordeiro",
+      "alias":"farmacia-cordeiro",
+      "id":"66",
+      "contact":{
+         "phones":[
+            "87 3874 1161"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.886053, -40.085630",
+      "image":"http://www.ourikas.com/media/empresas/intro/b838707990b3c2a1e173066312874230.jpg",
+      "galery":[
+         "70d5c45eb7110bf4dce5f8d952edde64.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b838707990b3c2a1e173066312874230.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Boteco",
+      "alias":"boteco",
+      "id":"67",
+      "contact":{
+         "phones":[
+            "87 3874 2417",
+            "87 9952 0433"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/BOTECO-Ouricuri/138514099550137",
+         "email":"eduardodidier@hotmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.888088,-40.080985",
+      "image":"http://www.ourikas.com/media/empresas/intro/2061a9c5f7f6516d7f8ac1a8186fa584.jpg",
+      "galery":[
+         "295a6a2844b4c8f5002dfb27fc1f3840.jpg",
+         "319ad8dac64b6f236f58d831d58d7035.jpg",
+         "61bb45a6231ddf448a878a27d91ff026.jpg",
+         "7e0fdf6d85a78038045f464c376acdbf.jpg",
+         "ce45912387895a47cdbfe557f31652f0.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2061a9c5f7f6516d7f8ac1a8186fa584.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Silva Calçados",
+      "alias":"silva-calcados",
+      "id":"68",
+      "contact":{
+         "phones":[
+            "87 3874 1453"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.885044, -40.082326",
+      "image":"http://www.ourikas.com/media/empresas/intro/efb2e595b6524e46664dc419962c1ea7.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-efb2e595b6524e46664dc419962c1ea7.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ingridy Modas",
+      "alias":"ingridy-modas",
+      "id":"70",
+      "contact":{
+         "phones":[
+            "87 3874 2552"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"ingridy.modas@hotmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.885219,-40.080403",
+      "image":"http://www.ourikas.com/media/empresas/intro/ce3a54c05f36d39eb0e4902829b675e3.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ce3a54c05f36d39eb0e4902829b675e3.jpg",
+      "status":"1"
+   },
+   {
+      "name":"IF Sertão Campus Ouricuri",
+      "alias":"if-ouricuri",
+      "id":"71",
+      "contact":{
+         "phones":[
+            "87  8125-2473",
+            "87 8125-2489"
+         ],
+         "site":"http://www.ifsertao-pe.edu.br/ouricuri/",
+         "facebook":"https://www.facebook.com/IFSertaoPE",
+         "email":"co.direcao@ifsertao-pe.edu.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":" 56.200-000"
+      },
+      "geolocation":" -7.884897, -40.099083",
+      "image":"http://www.ourikas.com/media/empresas/intro/578de8a5f560d3ac1ba53791ea519e9d.jpg",
+      "galery":[
+         "761309a4a8bf607f1e48c3a59c7226c1.jpg",
+         "fdcd212f872c0a73256b177b5ef47d37.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-578de8a5f560d3ac1ba53791ea519e9d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ako's",
+      "alias":"akos",
+      "id":"72",
+      "contact":{
+         "phones":[
+            "87 9925-7428",
+            "87 3874-2695"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.886375, -40.083023",
+      "image":"http://www.ourikas.com/media/empresas/intro/d95a28d1f5a9678dcf9f08d8d7935e8e.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d95a28d1f5a9678dcf9f08d8d7935e8e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lava Jato Rubão",
+      "alias":"lava-jato-rubao",
+      "id":"73",
+      "contact":{
+         "phones":[
+            "87 9949-0512"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a1103d168567499ec47e3a6ed11e23d9.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a1103d168567499ec47e3a6ed11e23d9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"T-Cell Celular",
+      "alias":"t-cell",
+      "id":"74",
+      "contact":{
+         "phones":[
+            "87 3874-2756"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/bd9de754fde02de66bae6510b81b370e.jpg",
+      "galery":[
+         "24432466a2cfabd7b37fd8ea5bee11c6.jpg",
+         "252dfe0b5b749664045951811e8087c9.jpg",
+         "3b8cd40d44172b79bd0626f6f48f5a53.jpg",
+         "6dee9e0db7783311da640bdda21aef3a.jpg",
+         "8f3dd56bf50433d090b8d08e8cc86212.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bd9de754fde02de66bae6510b81b370e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Moto-Táxi Sertanejo",
+      "alias":"moto-taxi-sertanejo",
+      "id":"75",
+      "contact":{
+         "phones":[
+            "87 9181-1761",
+            "87 9653-1634",
+            "87 9615-8924",
+            "87 9128-8836"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/beb6e619891791ab9070d4b5cca2f4e3.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-beb6e619891791ab9070d4b5cca2f4e3.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Criative Presentes & Cia",
+      "alias":"criative",
+      "id":"76",
+      "contact":{
+         "phones":[
+            "87 3874-1877",
+            "87 9938-3411"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.886460, -40.083334",
+      "image":"http://www.ourikas.com/media/empresas/intro/95e0197ab9e9cc82c09d26bdedfd5987.jpg",
+      "galery":[
+         "81b5647532cf3a0df258f21c3edf9fb7.jpg",
+         "b549b730a4c9a1e31ef7c53e498c5f5f.jpg",
+         "d0602516822f9be042da04269ff8edd1.jpg",
+         "da786ef13c2a76ee89305cbc7c615650.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-95e0197ab9e9cc82c09d26bdedfd5987.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Amazônia Mix",
+      "alias":"amazonia-mix",
+      "id":"77",
+      "contact":{
+         "phones":[
+            "87 3874-2937",
+            "87 9603-8557",
+            "87 9149-8502"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.887844, -40.080767",
+      "image":"http://www.ourikas.com/media/empresas/intro/3506d5c3c11fbf321c745b909b69a6d9.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3506d5c3c11fbf321c745b909b69a6d9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Luiz Carneiro na Brasa",
+      "alias":"restaurante-luiz-carneiro-na-brasa",
+      "id":"78",
+      "contact":{
+         "phones":[
+            "87 9636-7544"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/adbc475b84e0dea25d65f01c34095325.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-adbc475b84e0dea25d65f01c34095325.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Aspectho Calçados",
+      "alias":"aspectho-calcados",
+      "id":"79",
+      "contact":{
+         "phones":[
+            "87 3874-2370"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/Aspectho-Cal%C3%A7ados-Ouricuri/164584057065671",
+         "email":"lojasaspecto@gmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.884759, -40.083962",
+      "image":"http://www.ourikas.com/media/empresas/intro/016cc644eaceadfc1e327a827a822162.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-016cc644eaceadfc1e327a827a822162.jpg",
+      "status":"1"
+   },
+   {
+      "name":"G5 Informática",
+      "alias":"g5-informatica",
+      "id":"80",
+      "contact":{
+         "phones":[
+            "87 3874-1846",
+            "87 9644-7470",
+            "87 9129-7473"
+         ],
+         "site":"http://www.g5informatica.com",
+         "facebook":"https://www.facebook.com/g5info",
+         "email":"info@g5informatica.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.887693, -40.082122",
+      "image":"http://www.ourikas.com/media/empresas/intro/f6d1bb672619adc4d73dc597db807cce.jpg",
+      "galery":[
+         "25308c5a83bfe3fef46828bdcca364d5.jpg",
+         "450ac6e48a4f7d0ff2f5027515fb7174.jpg",
+         "8ca75bacc1cb8fe29fbd5011b5532f18.jpg",
+         "accc93da0f3503c0d8830ae88a01c428.jpg",
+         "c3157918c24e564ce94e60ece9f394db.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f6d1bb672619adc4d73dc597db807cce.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Utecme",
+      "alias":"utecme",
+      "id":"81",
+      "contact":{
+         "phones":[
+            "87 3874-3411",
+            "87 9922-0790"
+         ],
+         "site":"http://utecme.com.br",
+         "facebook":"https://www.facebook.com/Utecme",
+         "email":"contato@utecme.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.885190, -40.083107",
+      "image":"http://www.ourikas.com/media/empresas/intro/d56171699af5565e02f603c56f15f05d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d56171699af5565e02f603c56f15f05d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lan House do Anthony",
+      "alias":"lan-house-do-anthony",
+      "id":"82",
+      "contact":{
+         "phones":[
+            "87 3874-2499"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.887153, -40.082162",
+      "image":"http://www.ourikas.com/media/empresas/intro/d8c6e88729c43841cdaaa55be05dc667.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d8c6e88729c43841cdaaa55be05dc667.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Virou Mania Variedades em Importados",
+      "alias":"virou-mania-variedades-em-importados",
+      "id":"83",
+      "contact":{
+         "phones":[
+            "87 9957-2500"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.884712, -40.082836",
+      "image":"http://www.ourikas.com/media/empresas/intro/f3c38c116c366f432e662d7e5e5f4550.jpg",
+      "galery":[
+         "0113ffb06add9d1f7f39ca2b6ea9ded1.jpg",
+         "272d0686a74edbae2288ee03c28e1e76.jpg",
+         "51406fdb3917aed43458faa90c594e3f.jpg",
+         "673c312e292598645d090f1cea8bb750.jpg",
+         "8e2f972246a27f5d671751fd22ac085c.jpg",
+         "d6749de4786cf57c88758f7869beb130.jpg",
+         "eb7c628eb13a74e9d6d21a1d4ec90983.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f3c38c116c366f432e662d7e5e5f4550.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ponto Digital",
+      "alias":"ponto-digital",
+      "id":"84",
+      "contact":{
+         "phones":[
+            "87 3874-2151",
+            "87 9665-3100"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/ponto.digitall",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.887097, -40.082192",
+      "image":"http://www.ourikas.com/media/empresas/intro/2c647ed5908b7ba23361d6401079dab4.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2c647ed5908b7ba23361d6401079dab4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Alemão Publicidades",
+      "alias":"alemao-publicidades",
+      "id":"85",
+      "contact":{
+         "phones":[
+            "87 9995-3554"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/cd3afa887f17529a823b69f2d13b88d6.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-cd3afa887f17529a823b69f2d13b88d6.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Maurílio Melo",
+      "alias":"maurilio-melo",
+      "id":"86",
+      "contact":{
+         "phones":[
+            "87 9142-0269",
+            "87 9936-0171"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"contatomauriliomelo@gmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.884890, -40.082460",
+      "image":"http://www.ourikas.com/media/empresas/intro/4d15990db0b4b4570e90c40951ba15f9.jpg",
+      "galery":[
+         "25a9dc6413f6cf86e781f5401d81a18f.jpg",
+         "3f06eaf709ff648b9845cc1544cf7aef.jpg",
+         "4cf492304ce69ba155ae83d1b861c3ce.jpg",
+         "50a00ddce34bc6e2fc8942f702a61c5b.jpg",
+         "7dc59809105d575c7629d12c1bf0c09e.jpg",
+         "7e51de14cb0b2ce143bb00961eb0cb37.jpg",
+         "945ab7bb3f242e93a4d48af2f0627e20.jpg",
+         "972d85b57f069438f045699d2ffdbc7a.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4d15990db0b4b4570e90c40951ba15f9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Delma Cabeleireira",
+      "alias":"delma-cabeleireira",
+      "id":"87",
+      "contact":{
+         "phones":[
+            "87 9925-7597"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/1caa70b76c7b6ba5996af3433f916fb4.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-1caa70b76c7b6ba5996af3433f916fb4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Delícias do Trigo",
+      "alias":"delicias-do-trigo",
+      "id":"88",
+      "contact":{
+         "phones":[
+            "87 9108-6463",
+            "87 9977-6642"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/02337b147b9e543985060f5ad00b9d8e.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-02337b147b9e543985060f5ad00b9d8e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Castelo Calçados",
+      "alias":"castelo-calcados",
+      "id":"89",
+      "contact":{
+         "phones":[
+            "87 3874-1724"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/db4d76f3729a6601b86b6da9bbb74f5a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-db4d76f3729a6601b86b6da9bbb74f5a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Medeiros",
+      "alias":"restaurante-medeiros",
+      "id":"90",
+      "contact":{
+         "phones":[
+            "87 9634-2535",
+            "87 9105-5510"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/1c989693f0b0cabbd9a80b271022f860.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-1c989693f0b0cabbd9a80b271022f860.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ótica Ouricuri",
+      "alias":"otica-ouricuri",
+      "id":"91",
+      "contact":{
+         "phones":[
+            "87 3874-1383"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/ee3c5013ca177cd624697efd7d5ec071.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ee3c5013ca177cd624697efd7d5ec071.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Melhor Preço",
+      "alias":"melhor-preco",
+      "id":"92",
+      "contact":{
+         "phones":[
+            "87 3874-3391"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4c320f0a16470024df912b65d701f92c.jpg",
+      "galery":[
+         "0e92da0f965ce2dd415a89c16594c028.jpg",
+         "a8dcf925e6c3a3624276c64ac3d360c3.jpg",
+         "d07dc7299d130742ecd4ab7c6812057e.jpg",
+         "e09a76cf047ec1a531376ef36adb988e.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4c320f0a16470024df912b65d701f92c.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lanchonete Coma Bem",
+      "alias":"lanchonete-coma-bem",
+      "id":"93",
+      "contact":{
+         "phones":[
+            "87 9940-0030",
+            "87 9964-4460"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/293dccfb82ce42f4407a9aa2f95a948e.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-293dccfb82ce42f4407a9aa2f95a948e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa das Antenas",
+      "alias":"casa-das-antenas",
+      "id":"94",
+      "contact":{
+         "phones":[
+            "87 3874-2035",
+            "87 9675-4802",
+            "87 9152-1972"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/588f76e675a621d69031709a7d7353df.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-588f76e675a621d69031709a7d7353df.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pérola Boutique",
+      "alias":"perola-boutique",
+      "id":"95",
+      "contact":{
+         "phones":[
+            "87 3874-2294"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/ce35cf59d707ff0443447451a2877eed.jpg",
+      "galery":[
+         "205a977d7b677de0fd9980cd1500a29c.jpg",
+         "45b9509ff56f8e3147d1eec1cc7be7db.jpg",
+         "e842392623451a666f9c37959860c4c9.jpg",
+         "f3ace1fe0699298415f1e11ece00d7e0.jpg",
+         "fed41f1941684d3b41934ea44d192cd5.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ce35cf59d707ff0443447451a2877eed.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Tony Estética e Cabelo ",
+      "alias":"tony-estetica-e-cabelo",
+      "id":"96",
+      "contact":{
+         "phones":[
+            "87 9913-8102",
+            "87 9176-5917"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/000fcfc7ab2496dedec9f2ab5e370ffd.jpg",
+      "galery":[
+         "082dccc41333563dd8ff9c42b48d8752.jpg",
+         "390dad5b552eeebbdd70c601403e8ce6.jpg",
+         "42cf9abd697eedff7efbc3e3c29b7a51.jpg",
+         "5db8d630eb1e5c9fd0e80f1d05cca987.jpg",
+         "62490bb50000aca19d3200fd015aaf48.jpg",
+         "c52db4ec9a554e9d495d361938665ff8.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-000fcfc7ab2496dedec9f2ab5e370ffd.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Nailson Transportes",
+      "alias":"nailson-transportes",
+      "id":"97",
+      "contact":{
+         "phones":[
+            "87 9959-5656"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4c2db4e53d8a3b12fa5df7ebc1e49525.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4c2db4e53d8a3b12fa5df7ebc1e49525.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Point do Bolo",
+      "alias":"point-do-bolo",
+      "id":"98",
+      "contact":{
+         "phones":[
+            "87 9966-9270"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/d0db6f8c48230532560b570abdf76db0.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d0db6f8c48230532560b570abdf76db0.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante 20 de Janeiro",
+      "alias":"restaurante-20-de-janeiro",
+      "id":"99",
+      "contact":{
+         "phones":[
+            "87 9631-6980"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b5d5e983033bc9bf02273d95efa41533.jpg",
+      "galery":[
+         "09c28f7fc8ac7034471ee7c7d09d143f.jpg",
+         "0f4912b423d59b43389a70ff62873f7a.jpg",
+         "6141e0df36b0de30626b07ec16cfc851.jpg",
+         "61b61e787695fdba337b22d924ad314d.jpg",
+         "7510f86765ae3a945cd6e94636f7e68e.jpg",
+         "a2825cb67e12a2c9e77134f59586aa20.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b5d5e983033bc9bf02273d95efa41533.jpg",
+      "status":"1"
+   },
+   {
+      "name":"LV Tecidos",
+      "alias":"lv-tecidos",
+      "id":"100",
+      "contact":{
+         "phones":[
+            "87 3874-1143"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/f512a847be06510da9fb16eef3f8710d.jpg",
+      "galery":[
+         "49dd5a6325d99d4e4dce29c9be4cdb3b.jpg",
+         "6694a24fa00a50d40f6f20326c49b6ec.jpg",
+         "d13e10e5c8161c4012e4a35b11fe86c4.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f512a847be06510da9fb16eef3f8710d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ótica Barbara",
+      "alias":"otica-barbara",
+      "id":"101",
+      "contact":{
+         "phones":[
+            "87 3874-1490"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/81bc60913933a3f3c76d6cfa2ce85a8d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-81bc60913933a3f3c76d6cfa2ce85a8d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ourinet",
+      "alias":"ourinet",
+      "id":"102",
+      "contact":{
+         "phones":[
+            "87 3874-2313"
+         ],
+         "site":"http://www.ourinet.com.br/",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.884592, -40.084903",
+      "image":"http://www.ourikas.com/media/empresas/intro/b9fdfcb91b857ef3a493504112041cfb.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b9fdfcb91b857ef3a493504112041cfb.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Q Bombom",
+      "alias":"q-bombom",
+      "id":"103",
+      "contact":{
+         "phones":[
+            "87 9154-7261"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/0d305ed52d877759bd2a795843fa1b25.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-0d305ed52d877759bd2a795843fa1b25.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Arco Íris Tecidos",
+      "alias":"arco-iris-tecidos",
+      "id":"104",
+      "contact":{
+         "phones":[
+            "87 9932-5273"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/033f0be3f28f00dd94df29e8a36cd601.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-033f0be3f28f00dd94df29e8a36cd601.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Frigotil",
+      "alias":"frigotil",
+      "id":"105",
+      "contact":{
+         "phones":[
+            "87 3874-1480",
+            "87 9612-1503",
+            "87 9612-1471"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3cc1a011412ae916c7442f153ae2912b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3cc1a011412ae916c7442f153ae2912b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Léo Rações",
+      "alias":"leo-racoes",
+      "id":"106",
+      "contact":{
+         "phones":[
+            "87 3874-1464"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/d60b4d37b5aa76ec658fd48fb7eac3c0.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d60b4d37b5aa76ec658fd48fb7eac3c0.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Supermercado Sena",
+      "alias":"supermercado-sena",
+      "id":"107",
+      "contact":{
+         "phones":[
+            "87 3874-1575"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/938244c49a71bd86b438cae5a3e2b313.jpg",
+      "galery":[
+         "1ba805bc011dc6c791aa41412e47cf1b.jpg",
+         "42e3d3455d9248cf2f02a68537bd510b.jpg",
+         "5152e329533746b1522c5a55343b8db2.jpg",
+         "af37a70630acc425dbd7edf774773fec.jpg",
+         "d792de8c76703343e1c2207a36de0517.jpg",
+         "e45c375046c7cb8930ea1fd5f1ac7cb5.jpg",
+         "fb7072bbcbc5f7026ced621bf45a521c.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-938244c49a71bd86b438cae5a3e2b313.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Comercial Siqueira",
+      "alias":"comercial-siqueira",
+      "id":"108",
+      "contact":{
+         "phones":[
+            "87 3874-1160",
+            "81 9621-2514"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/7bde404aad9f82cc80282851d3dddc5d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-7bde404aad9f82cc80282851d3dddc5d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Requinte Jóias",
+      "alias":"requinte-joias",
+      "id":"109",
+      "contact":{
+         "phones":[
+            "87 3874-2139"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e92414a957c3488019be085a30e43ab8.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e92414a957c3488019be085a30e43ab8.jpg",
+      "status":"1"
+   },
+   {
+      "name":"SS - Advocacia",
+      "alias":"ss-advocacia",
+      "id":"110",
+      "contact":{
+         "phones":[
+            "87 3874-4066"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"assadvocacia@bol.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8fa8f0175519ff4396c99371edecb771.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8fa8f0175519ff4396c99371edecb771.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Metalúrgica do Abdias",
+      "alias":"metalurgica-do-abrias",
+      "id":"111",
+      "contact":{
+         "phones":[
+            "87 9666-1313",
+            "87 9933-4360"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/13fcf12597ffb9601c2a877b0bfffdb0.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-13fcf12597ffb9601c2a877b0bfffdb0.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Salete Rogéria Tenório de Macêdo Soares",
+      "alias":"salete-rogeria-tenorio-de-macedo-soares",
+      "id":"112",
+      "contact":{
+         "phones":[
+            "87 9952-0702",
+            "87 9176-8609"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3abe3c9fecfd7b555a076171ea2b030a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3abe3c9fecfd7b555a076171ea2b030a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Mercado Araripe",
+      "alias":"mercado-araripe",
+      "id":"113",
+      "contact":{
+         "phones":[
+            "87 3874-1097"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a82990a31d8429c3a115074e98e4ed59.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a82990a31d8429c3a115074e98e4ed59.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Wilson Pizza Forno a Lenha",
+      "alias":"wilson-pizza-forno-a-lenha",
+      "id":"114",
+      "contact":{
+         "phones":[
+            "87 3874-3010",
+            "87 91009088",
+            "87 9682-2960"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/wilson.pizzas.7?",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.888033, -40.081698",
+      "image":"http://www.ourikas.com/media/empresas/intro/bb3f016b4b605eaee2e23a7f60d92441.jpg",
+      "galery":[
+         "8ddb6261442d34fb1fa4ff4d996cef47.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bb3f016b4b605eaee2e23a7f60d92441.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ouricópi@s",
+      "alias":"ouricopias",
+      "id":"115",
+      "contact":{
+         "phones":[
+            "87 3874-2339",
+            "87 9940-9552"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/bc06e9e9d492acd37b2308b8777d8de4.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bc06e9e9d492acd37b2308b8777d8de4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"OuriFarma",
+      "alias":"ourifarma",
+      "id":"116",
+      "contact":{
+         "phones":[
+            "87 3874-1619"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/789949f6bb454cdf4ddbc39f1d10b527.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-789949f6bb454cdf4ddbc39f1d10b527.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Francisquinho Novidades ",
+      "alias":"francisquinho-novidades-",
+      "id":"117",
+      "contact":{
+         "phones":[
+            "87 3874-1997"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/edd3201cbddac923a9c7335a9904e2cb.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-edd3201cbddac923a9c7335a9904e2cb.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Dr. Camila Delmondes",
+      "alias":"camila-delmondes",
+      "id":"118",
+      "contact":{
+         "phones":[
+            "87 9963-2231"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8b14cc64e57d7c4f0c2bd0debb870cae.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8b14cc64e57d7c4f0c2bd0debb870cae.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Construmóveis - Grupo JAS",
+      "alias":"construmoveis",
+      "id":"120",
+      "contact":{
+         "phones":[
+            "87 3874-1840",
+            "87 9619-0043",
+            "87 9119-5556"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"lojasjas@live.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.888200, -40.081454",
+      "image":"http://www.ourikas.com/media/empresas/intro/cfe5a7f351fd30ade640bc3d064c69a1.jpg",
+      "galery":[
+         "05bd9d88c9ceba913c47fbed7ad68773.jpg",
+         "1139f201c1f2dccd24a3db86b351ae6b.jpg",
+         "1ccf25fd6b09486e010ae8edf24b146e.jpg",
+         "25b3263dbf29ca3153eb44908fd3bfce.jpg",
+         "4967aa5aee972dad81566864b97d392f.jpg",
+         "97a3beac84491e68ecd994ea3331f532.jpg",
+         "ede6c9a16409ab4d646baa2e9d64a035.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-cfe5a7f351fd30ade640bc3d064c69a1.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Etiqueta Modas - Grupo JAS",
+      "alias":"etiqueta-modas",
+      "id":"121",
+      "contact":{
+         "phones":[
+            "87 3874-1840",
+            "87 9619-0040",
+            "87 9119-5567"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/0b35c550f1272f11f90b35802df89620.jpg",
+      "galery":[
+         "1924323b3c5a4db25a28a5a8478e522b.jpg",
+         "28b4b93a90d4e7347561f2b9a6dbee6e.jpg",
+         "7f0592c5241a836866e07747c9ea1c46.jpg",
+         "88e7d8ec3ac76104364f1093aff9718e.jpg",
+         "e40872168e96fd3df3f427437079580b.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-0b35c550f1272f11f90b35802df89620.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Centro Comercial e Industrial JAS",
+      "alias":"centro-comercial-e-industrial-jas",
+      "id":"122",
+      "contact":{
+         "phones":[
+            "87 3874-1840",
+            "87 9619-0043",
+            "87 9119-5567"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/Centro-Comercial-e-Industrial-Jas/596029347077110",
+         "email":"lojasjas@live.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.888200, -40.081454",
+      "image":"http://www.ourikas.com/media/empresas/intro/e54b917b7f235b553b65327d6912730c.jpg",
+      "galery":[
+         "024506cdd1e7fa92425873efd8a4a749.jpg",
+         "0fd36cf3afb9cc146d44a2c2abf42708.jpg",
+         "114807a4d6d60700540c9d16af6fa25c.jpg",
+         "814e4445ed8c987457230d53137f9176.jpg",
+         "a8029f56c8e24f393313ec058bdad013.jpg",
+         "d49fd6161e906f30672999d28f1ab8ba.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e54b917b7f235b553b65327d6912730c.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Eletrocenter",
+      "alias":"eletrocenter",
+      "id":"123",
+      "contact":{
+         "phones":[
+            "87 3874-1128",
+            "87 9954-1331"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b9fa9bbec23b43b548b31e92b606c003.jpg",
+      "galery":[
+         "1e60a1433e53c3b0479ed9e4943b3972.jpg",
+         "2caf3e3e019a7c3797740f2f8335911d.jpg",
+         "8be6e422b7c4c3a13c011dfcc14e4fb0.jpg",
+         "c4dbda1baa39dffb1d06d0bc06ab6a09.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b9fa9bbec23b43b548b31e92b606c003.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Posto Carlota Peixoto",
+      "alias":"auto-posto-carlota-peixoto",
+      "id":"124",
+      "contact":{
+         "phones":[
+            "87 3875-2815"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Laura Coelho",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/59a4e76e2e3626cf701fc126f6e47f05.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-59a4e76e2e3626cf701fc126f6e47f05.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Posto Noemi Siqueira Freire",
+      "alias":"auto-posto-noemi-siqueira-freire",
+      "id":"125",
+      "contact":{
+         "phones":[
+            "87 3874-1093"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2730429501f51e1945590743247c617b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2730429501f51e1945590743247c617b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Posto São Luiz",
+      "alias":"auto-posto-sao-luiz",
+      "id":"126",
+      "contact":{
+         "phones":[
+            "87 3874-2343"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/90e3472fcf7335d27c3798a9fea09a05.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-90e3472fcf7335d27c3798a9fea09a05.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Posto Alencar Peixoto",
+      "alias":"auto-posto-alencar-peixoto",
+      "id":"127",
+      "contact":{
+         "phones":[
+            "87 3874-1093"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4f77e725c79e9e8ca1f11087ab4d841a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4f77e725c79e9e8ca1f11087ab4d841a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"EletroCell",
+      "alias":"eletrocell",
+      "id":"128",
+      "contact":{
+         "phones":[
+            "87 3874-2446",
+            "87 9995-2483",
+            "87 9970-7272"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b9c920f151d54733b308ae7a461c3532.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b9c920f151d54733b308ae7a461c3532.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Vita Mass",
+      "alias":"vita-mass",
+      "id":"129",
+      "contact":{
+         "phones":[
+            "81 9755-1365"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/076f2715ff2e96ad49b7b45bbea6c593.jpg",
+      "galery":[
+         "36a43a53801c0672be1e0d1f4a19c7c8.jpg",
+         "4e72ba742d457a7e642345c1c2713dc2.jpg",
+         "6ed8e228d9f35a2fe42ffbde592eb058.jpg",
+         "aa5e924fed2716068a363a4df823911c.jpg",
+         "b8110a52613cc5120bbb98a85d2ea051.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-076f2715ff2e96ad49b7b45bbea6c593.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Frigorifico Salviano",
+      "alias":"frigorifico-salviano",
+      "id":"130",
+      "contact":{
+         "phones":[
+            "87 3874-2526",
+            "87 9929-0280"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2b49db2a418252e4350fbe0acff4f03d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2b49db2a418252e4350fbe0acff4f03d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"JN Bicicletas e Motos",
+      "alias":"jn-bicicletas-e-motos",
+      "id":"131",
+      "contact":{
+         "phones":[
+            "87 3874-1825"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2c2c9fe785b65fd1c48f90b7e42a92c2.jpg",
+      "galery":[
+         "04c8f4ac49b27ec2d1f3412b93089d00.jpg",
+         "1fed8000ea91d20827c9784460edf138.jpg",
+         "48ecba0e07969749d2c3d919fb83b2a7.jpg",
+         "571134881c0fec641676374ec141e66b.jpg",
+         "6a42197c38cc397a11b1781b85d5f256.jpg",
+         "be4bcc61f056695a55d71ca359347bb8.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2c2c9fe785b65fd1c48f90b7e42a92c2.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Walas Gás e Água",
+      "alias":"walas-gas-e-agua",
+      "id":"132",
+      "contact":{
+         "phones":[
+            "87 9936-3644",
+            "87 9124-3838"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Batalhão",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/56a3da052e2b1c6ba16c8214378972b3.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-56a3da052e2b1c6ba16c8214378972b3.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Soleny Moda Evangelica",
+      "alias":"soleny-moda-evangelica",
+      "id":"133",
+      "contact":{
+         "phones":[
+            "87 3874-3714",
+            "87 9662-9119"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b7be8f9d8d115dd5a8d3cadb33db47a9.jpg",
+      "galery":[
+         "126231805b0d6b2093f16c19e661b441.jpg",
+         "166f6af5c9ebf163fe1b929c10d88e43.jpg",
+         "1dfeec3b7080e8131dc46878cb2a2f86.jpg",
+         "2800e867a25f165565da5e16cb6d9a03.jpg",
+         "429b5ac9fdcde65bd74fb31a8b2fc805.jpg",
+         "d960558e8f0ab71140541a14ed4d629e.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b7be8f9d8d115dd5a8d3cadb33db47a9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Neto Móveis",
+      "alias":"neto-moveis",
+      "id":"134",
+      "contact":{
+         "phones":[
+            "87 9993-9517",
+            "87 3874-1068",
+            "87 3874-1392"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"netomoveis@gmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/f1d8e093f1515718ec54f10a39af1e60.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f1d8e093f1515718ec54f10a39af1e60.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Soraya Móveis",
+      "alias":"soraya-moveis",
+      "id":"135",
+      "contact":{
+         "phones":[
+            "87 3874-3041"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b0ce7aac644db5f9db0ecf22cae2f9ca.jpg",
+      "galery":[
+         "70975e9eb671fd35b49ab7f0f5acecf2.jpg",
+         "7b242cb18645251710df08ee5b8fb152.jpg",
+         "9f5b61a6662d462d50f0d623df010d18.jpg",
+         "b7a1df8b917b0dae0cbd34680caf94c2.jpg",
+         "dc566a0d30d848fa556acaad37d495ca.jpg",
+         "f248931592761bd7252ca35bd7f39136.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b0ce7aac644db5f9db0ecf22cae2f9ca.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Atacadão Malha e Jeans",
+      "alias":"atacadao-malha-e-jeans",
+      "id":"136",
+      "contact":{
+         "phones":[
+            "87 9622-7212",
+            "87 9176-5198"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e1567b08530ef4aa114b231f0750a5e7.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e1567b08530ef4aa114b231f0750a5e7.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa das Embalagens",
+      "alias":"casa-das-embalagens",
+      "id":"137",
+      "contact":{
+         "phones":[
+            "87 9959-4546"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c43853ddc9a0690cb4ccb0d32568482c.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c43853ddc9a0690cb4ccb0d32568482c.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Charme Collection",
+      "alias":"charme-collection",
+      "id":"138",
+      "contact":{
+         "phones":[
+            "87 3874-3893"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5d6f1919fa17b455443ab0f9586bc507.jpg",
+      "galery":[
+         "0d516210749b9cc70fed0d355e767912.jpg",
+         "1250b19f05ee14b11911d98e2865523f.jpg",
+         "b71f927fcd7a803c5dce5d5aae475e78.jpg",
+         "dae08aaef21473d1f7ba79ac5096bc3c.jpg",
+         "efe9938bd879ba771942d91f98458a00.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5d6f1919fa17b455443ab0f9586bc507.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pop Eletro",
+      "alias":"pop-eletro",
+      "id":"139",
+      "contact":{
+         "phones":[
+            "87 9963-5234"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/756d83c3d884bdd3b3c6987e97fbea59.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-756d83c3d884bdd3b3c6987e97fbea59.jpg",
+      "status":"1"
+   },
+   {
+      "name":"ConectCell - Informática",
+      "alias":"conectcell",
+      "id":"140",
+      "contact":{
+         "phones":[
+            "87 9949-0658",
+            "87 9193-7292",
+            "87 3874 3959"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"conect.cell.2014@hotmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/fa9372712eec309b126173e10cd4c6f9.jpg",
+      "galery":[
+         "53aff0d251c5174dea546a816d91a0b0.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-fa9372712eec309b126173e10cd4c6f9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Viny Vídeo Locadora",
+      "alias":"viny-video-locadora",
+      "id":"141",
+      "contact":{
+         "phones":[
+            "87 9995-7354"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Nossa Senhora do Carmo",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/04093b6b2cd967ef956ba2a64a32f8bd.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-04093b6b2cd967ef956ba2a64a32f8bd.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Fiat Consorcio",
+      "alias":"fiat-consorcio",
+      "id":"142",
+      "contact":{
+         "phones":[
+            "87 9995-7354"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Nossa Senhora do Carmo",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/0ef1059640aea567f536518e62b13945.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-0ef1059640aea567f536518e62b13945.jpg",
+      "status":"1"
+   },
+   {
+      "name":"REFRIGEO",
+      "alias":"refrigeo",
+      "id":"143",
+      "contact":{
+         "phones":[
+            "87 3874-2993",
+            "87 9993-2051"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/775cb1efedacda2dcba6fabb89aaf1a2.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-775cb1efedacda2dcba6fabb89aaf1a2.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Centauri Fogões",
+      "alias":"centauri-fogoes",
+      "id":"144",
+      "contact":{
+         "phones":[
+            "87 3874-2537",
+            "87 9617-6144"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/7446bedf100a4a0af5d7e0f737ced95b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-7446bedf100a4a0af5d7e0f737ced95b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Vitória Presentes",
+      "alias":"vitoria-presentes",
+      "id":"145",
+      "contact":{
+         "phones":[
+            "87 9974-9975",
+            "87 9943-2432"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/dbf58630cb9972433f450ccaa7365b71.jpg",
+      "galery":[
+         "1e15110bbfcda078832aed00223b7708.jpg",
+         "5772a96b228c02eb5a35f458eaa0c221.jpg",
+         "935ab601c9fa6f2e014ffda61d33d7a1.jpg",
+         "a755c42fcbb4729217c7722b60ae0305.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-dbf58630cb9972433f450ccaa7365b71.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Leandro Parabólica",
+      "alias":"leandro-parabolica",
+      "id":"146",
+      "contact":{
+         "phones":[
+            "87 9995-3490",
+            "87 9141-0820"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/f0e48fcc8f3f5856ed5cce0605c9d451.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f0e48fcc8f3f5856ed5cce0605c9d451.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Oficina Costa",
+      "alias":"oficina-costa",
+      "id":"147",
+      "contact":{
+         "phones":[
+            "87 3874-1451",
+            "87 9626-2075"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.881454, -40.086881",
+      "image":"http://www.ourikas.com/media/empresas/intro/72201e534ce72ed4389b0c5bf6f3bd2a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-72201e534ce72ed4389b0c5bf6f3bd2a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Nilgoon Eletronic",
+      "alias":"nilgoon-eletronic",
+      "id":"148",
+      "contact":{
+         "phones":[
+            "87 9622-2014"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/be4cab469ccc809e083e2db80b353ea5.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-be4cab469ccc809e083e2db80b353ea5.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Metalúrgica Santana",
+      "alias":"metalurgica-santana",
+      "id":"149",
+      "contact":{
+         "phones":[
+            "87 9937-3521",
+            "87 9155-3137"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/6df18bf822d70df743d035e063f4f118.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-6df18bf822d70df743d035e063f4f118.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lava Jato Central",
+      "alias":"lava-jato-central",
+      "id":"150",
+      "contact":{
+         "phones":[
+            "87 9116-0877",
+            "87 9958-5592",
+            "87 9142-9928",
+            "87 9613-4480"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Auto Elétrica Estilo",
+      "alias":"auto-eletrica-estilo",
+      "id":"151",
+      "contact":{
+         "phones":[
+            "87 9942-4810",
+            "87 9150-5924"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/197cfb844893728fca29ef683461c401.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-197cfb844893728fca29ef683461c401.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Primeira Linha Motopeças",
+      "alias":"primeira-linha-motopecas",
+      "id":"152",
+      "contact":{
+         "phones":[
+            "87 9603-9743",
+            "87 9200-2123"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/9869c3a63d6d7c78aeaa957da773d578.jpg",
+      "galery":[
+         "0530b78bb9bc6076a40621bd9108863c.jpg",
+         "0e337aed4ce0e2be1eac323cf815b0b8.jpg",
+         "25cc13e9420b8d7b25f414d776027d16.jpg",
+         "3f571e7bbe195787117a048e43fb3b3d.jpg",
+         "a080fb2b44152d3fad9b79d2b083dcbf.jpg",
+         "fc7cfad2a9bf12ca25a3301911c246e6.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-9869c3a63d6d7c78aeaa957da773d578.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Dilson Cell",
+      "alias":"dilson-cell",
+      "id":"153",
+      "contact":{
+         "phones":[
+            "87 9107-1775",
+            "87 9925-5475"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/bcdafecb22e3f5ae0799e776801c5c8b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bcdafecb22e3f5ae0799e776801c5c8b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"KARAUTO",
+      "alias":"karauto",
+      "id":"155",
+      "contact":{
+         "phones":[
+            "87 3874-4167",
+            "87 9635-0215"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e3b062111edb5091b5360be776cf2d19.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e3b062111edb5091b5360be776cf2d19.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Alencar Acessórios ",
+      "alias":"alencar-acessorios",
+      "id":"156",
+      "contact":{
+         "phones":[
+            "87 3874-2466"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a254f6717a37b5c4da8baa183f9149e4.jpg",
+      "galery":[
+         "3477336f91038ebddaf12b73ca07e6c1.jpg",
+         "4b1fa8781d15ae052bf6cd6dc3860c8e.jpg",
+         "6dfa94f43bae39a27ee04bb172faf180.jpg",
+         "90b46f77ce1bf6eafac07fc51c3fb9b1.jpg",
+         "95a80bd54b0fcfaa8c6bd9a11ba35efb.jpg",
+         "a5475d9c159e9efd63b33e2f54f35056.jpg",
+         "ede984f3b2af915eaa1f5b6d28bb0c27.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a254f6717a37b5c4da8baa183f9149e4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Mercadinho Carneiro",
+      "alias":"mercadinho-carneiro",
+      "id":"157",
+      "contact":{
+         "phones":[
+            "87 3874-4494"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e61c37d5db28dc3b0b894944b396fb94.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e61c37d5db28dc3b0b894944b396fb94.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Paulo Alinhamento",
+      "alias":"paulo-alinhamento",
+      "id":"158",
+      "contact":{
+         "phones":[
+            "87 3874-2674"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5088fdb03f3adde2586f15e3841cb353.jpg",
+      "galery":[
+         "26fd5d33092ca4ea97c5433ec8759382.jpg",
+         "37d0368ec66c8d11669a50f805620987.jpg",
+         "53026e0ab57f31db5a30216752521d54.jpg",
+         "90398053cbe10a56c88e234b039512a5.jpg",
+         "eaf806385570ee66389b44cc6f25dc86.jpg",
+         "f352277418856d88f546d19267053a7b.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5088fdb03f3adde2586f15e3841cb353.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Bela Flor Confeção",
+      "alias":"bela-flor-confecao",
+      "id":"159",
+      "contact":{
+         "phones":[
+            "87 3874-3563"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/75010eeb9a632fc67d42f1e30cc46b22.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-75010eeb9a632fc67d42f1e30cc46b22.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Barbosa Peças",
+      "alias":"barbosa-pecas",
+      "id":"160",
+      "contact":{
+         "phones":[
+            "87 9991-9052",
+            "87 9163-3512"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2ac02491e2901ed85fb20d49e75e8c48.jpg",
+      "galery":[
+         "310c14683afc47c74ca8285f23ec45df.jpg",
+         "35c5c1f9231e534a8027134090322ae5.jpg",
+         "3b05c97dde438d16a16d90b1d57a8791.jpg",
+         "a56582a6f06810d82b2f3e85e4365e0c.jpg",
+         "ffdbdd17ed48a3f3b7388abeceb0a7f2.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2ac02491e2901ed85fb20d49e75e8c48.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Alencar Auto Peças",
+      "alias":"alencar-auto-pecas",
+      "id":"161",
+      "contact":{
+         "phones":[
+            "87 3874-1982"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a951b523a01398e445ee26a27e5a864e.jpg",
+      "galery":[
+         "36191c37cc523fba6db7b91c00233e9a.jpg",
+         "5fb6f0ba85daaa3f3a9bb747b74f0273.jpg",
+         "731a7611eecbb876dd3b469cd3cebae4.jpg",
+         "8d9fa0d2d8426ec991b20b4e22138081.jpg",
+         "b7981e12873655e9ef4f152a2a587c2d.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a951b523a01398e445ee26a27e5a864e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Cupim Som",
+      "alias":"cupim-som",
+      "id":"162",
+      "contact":{
+         "phones":[
+            "87 3874-2423",
+            "87 9995-7806"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/91afa8238c04d92d1c72f43b4f3850bc.jpg",
+      "galery":[
+         "2d307fc2300388c4cb028b13e9467fcb.jpg",
+         "3730e75c8f95e55b08258f4b4a507b72.jpg",
+         "667e3ed38de8349064ae4cca4bb2e269.jpg",
+         "7284eedef286349a069d680ca083229a.jpg",
+         "c5f889064794053946f0a516b8390b23.jpg",
+         "c8b691b4b077998dde7b0a584831a34e.jpg",
+         "cc18960c29fa144fbe4bbb11898d6d1b.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-91afa8238c04d92d1c72f43b4f3850bc.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ney Construções",
+      "alias":"ney-construcoes",
+      "id":"163",
+      "contact":{
+         "phones":[
+            "87 3874-2094",
+            "87 9991-5827"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a4849f1c8581887bc7f5b142f93eada9.jpg",
+      "galery":[
+         "4054f0b4793e0a28093af4e6a3774007.jpg",
+         "62446699e44008db59d97e2b006e24e2.jpg",
+         "9742899e5b664f010154fe94235a4dc3.jpg",
+         "c6fa3d9625ca53637af025fb8ef5aa41.jpg",
+         "e9b34ab7780bc25e1da1e28d959d2ca3.jpg",
+         "fecbc85f4df8bc1d8cd1818ee3d3a82f.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a4849f1c8581887bc7f5b142f93eada9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Constrular",
+      "alias":"constrular",
+      "id":"164",
+      "contact":{
+         "phones":[
+            "87 3874-1535"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/9b1f0774c4c9268fc2b9ec6d24724e32.jpg",
+      "galery":[
+         "36eb573e3a3bd4a544a22954a8a715c1.jpg",
+         "413e3a73517cf543cf5de33aa66d1e21.jpg",
+         "5b09f6265987825f4b759c653fb16dcb.jpg",
+         "69b99fe40778a7766d9ce2391fae2355.jpg",
+         "89f90ab85cae5061e8b21192527adc61.jpg",
+         "afb0ff1eda2f7e8fd20d830dd271be6a.jpg",
+         "f67de1ccf4641d4f251a4ef002a1aaef.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-9b1f0774c4c9268fc2b9ec6d24724e32.jpg",
+      "status":"1"
+   },
+   {
+      "name":"GS Pneus e Batarias",
+      "alias":"gs-pneus-e-batarias",
+      "id":"165",
+      "contact":{
+         "phones":[
+            "87 3874-3186"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e085203c47d01fa4f1682c26a1df9c34.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e085203c47d01fa4f1682c26a1df9c34.jpg",
+      "status":"1"
+   },
+   {
+      "name":"GS Auto Peças",
+      "alias":"gs-auto-pecas",
+      "id":"166",
+      "contact":{
+         "phones":[
+            "87 3874-4382"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/d97949b9c4a0adefd10ed0e015359528.jpg",
+      "galery":[
+         "1fcc98967a0d6b6bb79fc06118c151cc.jpg",
+         "25bc786dfb146d48ba7172ef17332cea.jpg",
+         "5cb67f7bbc06740b61448cf17b5a43c5.jpg",
+         "a7edaa93b2aa45fc1a359246943a44ce.jpg",
+         "c4d472e3ad6269dff9ea81014833dcac.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d97949b9c4a0adefd10ed0e015359528.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Evando Fumê",
+      "alias":"evando-fume",
+      "id":"167",
+      "contact":{
+         "phones":[
+            "87 9156-2231",
+            "87 9668-5890"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/6a51a90d23c4ad8ac7c7cfd177e01b2d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-6a51a90d23c4ad8ac7c7cfd177e01b2d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa da Construção - Home Center",
+      "alias":"casa-da-construcao-home-center",
+      "id":"168",
+      "contact":{
+         "phones":[
+            "87 3874-1321"
+         ],
+         "site":"http://www.casadaconstrucaope.com.br/",
+         "facebook":"https://www.facebook.com/HomeCenterdoAraripe",
+         "email":"sac@casadaconstrucaope.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.887945, -40.086215",
+      "image":"http://www.ourikas.com/media/empresas/intro/75c767c3b1fadafc60fb9ae584822c26.jpg",
+      "galery":[
+         "25543a0bf742c0ae9331bde2f611c7a9.jpg",
+         "37d78e08603bb84df59cce1112fa5b09.jpg",
+         "71672a10b81478956a2184945aff3e8e.jpg",
+         "7d64c1aaf16a813332666e3696c31a48.jpg",
+         "ac2f702f4b680e0e9224fdac93d81ec2.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-75c767c3b1fadafc60fb9ae584822c26.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Farmácia São Sebastião",
+      "alias":"farmacia-sao-sebastiao",
+      "id":"169",
+      "contact":{
+         "phones":[
+
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.883901, -40.084506",
+      "image":"http://www.ourikas.com/media/empresas/intro/b8025b2be9ba20f1d635dc356336fc90.jpg",
+      "galery":[
+         "405420bf22c9c118cf1d744b95f18a9f.jpg",
+         "bac80c6dcc88cfa8f2760b9f74c85f87.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b8025b2be9ba20f1d635dc356336fc90.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa da Construção - Loja I",
+      "alias":"casa-da-construcao-loja-i",
+      "id":"170",
+      "contact":{
+         "phones":[
+            "87 3874-1321"
+         ],
+         "site":"http://www.casadaconstrucaope.com.br/",
+         "facebook":"https://www.facebook.com/HomeCenterdoAraripe",
+         "email":"sac@casadaconstrucaope.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.884138, -40.084414",
+      "image":"http://www.ourikas.com/media/empresas/intro/7269ebe0e3257c1dcd7f612f757b2e55.jpg",
+      "galery":[
+         "0227343026429b8efe7b8ff408da183b.jpg",
+         "0ce5482211e2c91509c0216d15686001.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-7269ebe0e3257c1dcd7f612f757b2e55.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa da Construção - Loja II",
+      "alias":"casa-da-construcao-loja-ii",
+      "id":"171",
+      "contact":{
+         "phones":[
+            "87 3874-1021"
+         ],
+         "site":"http://www.casadaconstrucaope.com.br/",
+         "facebook":"https://www.facebook.com/HomeCenterdoAraripe",
+         "email":"sac@casadaconstrucaope.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b8bc0104ffb7acabc85e013800bcc60f.jpg",
+      "galery":[
+         "8b59ce612ae609092134d632d70f1d10.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b8bc0104ffb7acabc85e013800bcc60f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Brown Som Elétrica ",
+      "alias":"brown-som-eletrica",
+      "id":"172",
+      "contact":{
+         "phones":[
+            "87 9970-0300",
+            "87 9174-1421"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/6c1ea6a57eb684f25dd97bddfd7c1834.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-6c1ea6a57eb684f25dd97bddfd7c1834.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Joãozito Auto Peça",
+      "alias":"joaozito-auto-peca",
+      "id":"173",
+      "contact":{
+         "phones":[
+            "87 3874-2266",
+            "87 9638-5336"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/0f5a64423aa427641c554e5bfc7f7e3f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-0f5a64423aa427641c554e5bfc7f7e3f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Mano Pneus e Auto Peças",
+      "alias":"mano-pneus-e-auto-pecas",
+      "id":"174",
+      "contact":{
+         "phones":[
+            "87 3874-3076",
+            "87 9655-8453",
+            "81 9800-5190"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/40acea70220bfb3b15c74de69dfb5807.jpg",
+      "galery":[
+         "1dd1aadb36ae0ce15a43501e74ce027c.jpg",
+         "2b08516c28e33a26971af5e799e31bcd.jpg",
+         "30840552e314cb178333583ea0e07143.jpg",
+         "42bb73017aba9e9f2b566c1da2caacb4.jpg",
+         "5f281d01801208182414cbf8a52817ce.jpg",
+         "74594ad38abe79cece45464edd0ef6ba.jpg",
+         "948976cee34472ff7535e9391785eeb5.jpg",
+         "bca0e1878821d4dfef3b9cd1a777cdaa.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-40acea70220bfb3b15c74de69dfb5807.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Lava Jato Maycon",
+      "alias":"lava-jato-maycon",
+      "id":"175",
+      "contact":{
+         "phones":[
+            "87 9939-5228",
+            "87 9121-2277"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/67fb65729be66be3cc32515523377250.jpg",
+      "galery":[
+         "b1197f208c394998a07fd035cdb140bf.jpg",
+         "d12967e5d659f6fd3690f7a368d7d60b.jpg",
+         "e9f6d370685dd7a0eca525f39495ae27.jpg",
+         "f00ba137471dfdffdebe2b8262c7c9ff.jpg",
+         "f3eb1bb64310b1a9af37148069202df8.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-67fb65729be66be3cc32515523377250.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Edilson Motos e Tratores",
+      "alias":"edilson-motos-e-tratores",
+      "id":"176",
+      "contact":{
+         "phones":[
+            "87 3874-1577",
+            "87 9626-7357",
+            "87 9111-0628"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3de65fbac48db1bc23fd9d2b17a69e48.jpg",
+      "galery":[
+         "0b1d7c51849f932e259337a5975b4c6c.jpg",
+         "8dc41ca3e595e076fa8e98bce3ef30ea.jpg",
+         "9388d7f5d8dd1bee450446c28b52fc58.jpg",
+         "9fbb537b52ef7db7f32c1e2b5ecba398.jpg",
+         "b8a992c268378264101769c6c931b735.jpg",
+         "e1a7604543a6165ccdb98eaa245898c8.jpg",
+         "f31dad7db614a97ef45edd51e4232a68.jpg",
+         "f46e915d207c8b10a357c0ba3d732943.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3de65fbac48db1bc23fd9d2b17a69e48.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ciclopeças Salviano",
+      "alias":"ciclopecas-salviano",
+      "id":"177",
+      "contact":{
+         "phones":[
+            "87 3874-3772"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4a5125cc91d8181e353caf1b19f25a57.jpg",
+      "galery":[
+         "0bdaa8b6eed222e007b6e39b5141f9b6.jpg",
+         "18028b489981fc910eaa870de960fd81.jpg",
+         "844abc8ed2e0c245b7aa001a3ade3cc5.jpg",
+         "8a7f127780b7eb6812bc6eb239db0b80.jpg",
+         "99faf9951083e60b562de9241b31d9e3.jpg",
+         "b64d8d927b3c9cc324a23238928ee775.jpg",
+         "c34fe88b04c4d7b62b27d028d8760b43.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4a5125cc91d8181e353caf1b19f25a57.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pousada Dias",
+      "alias":"pousada-dias",
+      "id":"178",
+      "contact":{
+         "phones":[
+            "87 3874-2581",
+            "87 9640-4028"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/93f844ed1ad2696c51b6460c728f0c21.jpg",
+      "galery":[
+         "87f99a8b415f52c63601d9853629dae1.jpg",
+         "8e080d66a50e1741af3c40285e8aa868.jpg",
+         "9eb74beaea3f64cceaddbf9d6b324397.jpg",
+         "af8c4474817beb73305a04e7c95f507f.jpg",
+         "b34e59facbd719f3943db42e99475e65.jpg",
+         "c7ca57919b5eccefda2c0162091c4897.jpg",
+         "da2e944519c9d8b8bdd1b4cedda3ae4c.jpg",
+         "e6b40c86f91fe7d28cd0940d48f60c27.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-93f844ed1ad2696c51b6460c728f0c21.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Rasga Preço",
+      "alias":"rasga-preco",
+      "id":"179",
+      "contact":{
+         "phones":[
+            "87 8107-3499",
+            "87 8107-3499"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/6791f2c51837d2d3903340e422e91421.jpg",
+      "galery":[
+         "044a8811d66896b8962e58f3151cb27c.jpg",
+         "40121cddf766a1d066286a8dd62b7667.jpg",
+         "5bbc35477b1ed069d1936ad30e61d269.jpg",
+         "8058ee4ddde1ae709045f406c4b25255.jpg",
+         "a48b98ad7c3ce38c17c34ac9e4d680ca.jpg",
+         "a9f6a6774de7790917b14334250b662d.jpg",
+         "ec4ba08d84d6ed416ece33d5d5c9f2aa.jpg",
+         "f972c83a64705761274127d4e6bce57c.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-6791f2c51837d2d3903340e422e91421.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Casa Nova",
+      "alias":"casa-nova",
+      "id":"180",
+      "contact":{
+         "phones":[
+            "87 3874-2563"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/669f29f22f0edbbf25fc910cd2d59f68.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-669f29f22f0edbbf25fc910cd2d59f68.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Elétrica Nossa Senhora Aparecida",
+      "alias":"auto-eletrica-nossa-senhora-aparecida",
+      "id":"181",
+      "contact":{
+         "phones":[
+            "87 9613-1434",
+            "87 9130-6272"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Dasmar Tecnologia",
+      "alias":"dasmar-tecnologia",
+      "id":"182",
+      "contact":{
+         "phones":[
+            "87 3874--2149"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Império Ferragens",
+      "alias":"imperio-ferragens",
+      "id":"183",
+      "contact":{
+         "phones":[
+            "87 3874-3482",
+            "87 9948-0338"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5890955e8151a3f82f4665b3dd4110a6.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5890955e8151a3f82f4665b3dd4110a6.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Distribuidora o Geladão",
+      "alias":"distribuidora-o-geladao",
+      "id":"184",
+      "contact":{
+         "phones":[
+            "87 3874-2243"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/26e62bc355868e27ed476c3296011b5e.jpg",
+      "galery":[
+         "1d11d80b808dc0ade6b4b930b477ccdf.jpg",
+         "211740b8b71f618bf0a90cbe4ead62f5.jpg",
+         "360b5bd7b1d98c17338cc168d4e1c3e1.jpg",
+         "52bf5fc5356060bca3f3b203667de3f8.jpg",
+         "5fd9178d4448ad3097afa394544b83c6.jpg",
+         "661bba0b2a214529783801808b396d1f.jpg",
+         "90f6183279b8c8b3d9009cbacb6a2792.jpg",
+         "f2557350f5e6dbeb5c8f43cef079bfa3.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-26e62bc355868e27ed476c3296011b5e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Elétrica Bentivi",
+      "alias":"auto-eletrica-bentivi",
+      "id":"185",
+      "contact":{
+         "phones":[
+            "87 9118-1899",
+            "87 9100-6213"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/df328f28b97addcbc9d928c6d292e349.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-df328f28b97addcbc9d928c6d292e349.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Delgado Sportwear",
+      "alias":"delgado-sportwear",
+      "id":"186",
+      "contact":{
+         "phones":[
+            "87 3874-4250"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/28e90ba1173862533ad3054570d305d8.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-28e90ba1173862533ad3054570d305d8.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ciclopeças Ramos",
+      "alias":"ciclopecas-ramos",
+      "id":"187",
+      "contact":{
+         "phones":[
+            "87 3874-1397",
+            "87 9644-4488"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/69e84f5cdd8a7f4a9d01cff859c72473.jpg",
+      "galery":[
+         "22f9edd3ee8ed50cce4d5df8e617dbf3.jpg",
+         "3afed9be7428b7b3cde6faebe81771c5.jpg",
+         "497e3bef97b32833d50b5a81285041fe.jpg",
+         "4b380db78dd69ea056a268d9702fb32a.jpg",
+         "4cbc66c8335686ca75a0356303e04ceb.jpg",
+         "6a1f984b9d527b936edca8dafe52c984.jpg",
+         "ba4f134c721a8550cbd67538758b5581.jpg",
+         "d71019fc53159b84db901428149a765f.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-69e84f5cdd8a7f4a9d01cff859c72473.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Magazine Padre Cícero",
+      "alias":"magazine-padre-cicero",
+      "id":"188",
+      "contact":{
+         "phones":[
+            "87 3874-1506"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5c92687bf7036d4a734aadfad1967f46.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5c92687bf7036d4a734aadfad1967f46.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Paulo Veículos",
+      "alias":"paulo-veiculos",
+      "id":"189",
+      "contact":{
+         "phones":[
+            "87 3874-4426"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Pirangi",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/d54dd659f7904297e1b4e102e63fe97e.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d54dd659f7904297e1b4e102e63fe97e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Madeireira Ouricuri",
+      "alias":"madeireira-ouricuri",
+      "id":"190",
+      "contact":{
+         "phones":[
+            "87 9991-7441",
+            "87 9629-0692"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/439e85164715864cfb0ddcd739199253.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-439e85164715864cfb0ddcd739199253.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Aliança Motos",
+      "alias":"alianca-motos",
+      "id":"191",
+      "contact":{
+         "phones":[
+            "87 3967-4550"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Canacuí",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e93675672b2e5ba19149b0ab7b4b5249.jpg",
+      "galery":[
+         "fd1769420e29c553b2d730d63e9bc575.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e93675672b2e5ba19149b0ab7b4b5249.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Macfel",
+      "alias":"macfel",
+      "id":"192",
+      "contact":{
+         "phones":[
+            "87 9942-5010"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/ac894caf334150f43d56b2210cf45d68.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ac894caf334150f43d56b2210cf45d68.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Eletrobela",
+      "alias":"eletrobela",
+      "id":"193",
+      "contact":{
+         "phones":[
+            "87 3874-1249",
+            "87 9911-0002"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"delgadocarlosluiz@yahoo.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.883080, -40.083211",
+      "image":"http://www.ourikas.com/media/empresas/intro/a143df40a8adc1c264c1cd00410d6c26.jpg",
+      "galery":[
+         "6e4104361a4c2dc37bffc1eb49a2429e.jpg",
+         "8ddc7b412d0149ff80c477e21b630d60.jpg",
+         "9ab69479c123db75bb3b1ab5ac9ac3ad.jpg",
+         "be067638e9706636d03c855d11df20dd.jpg",
+         "d5e84ca4e6c56f0a1f1d9d62d42ce3c0.jpg",
+         "f9627c4007b6d14195dafcf9498ce243.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a143df40a8adc1c264c1cd00410d6c26.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Raul Lins",
+      "alias":"raul-lins",
+      "id":"194",
+      "contact":{
+         "phones":[
+            "87 3874-4500"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/ebd733815ec1e3e2a6f9caac5da5044b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ebd733815ec1e3e2a6f9caac5da5044b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Baby Shopping",
+      "alias":"baby-shopping",
+      "id":"195",
+      "contact":{
+         "phones":[
+            "87 3874-1074",
+            "87 9634-2226"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"jc.babyshopping@bol.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/71ca74d8e274373a6b8194b6a978459f.jpg",
+      "galery":[
+         "660d27a514cb7087904f372e94a32c2a.jpg",
+         "c029f7e82ba25484bad3980a5e84f6ba.jpg",
+         "e35fa3b5de39707dcab429bd2c808017.jpg",
+         "e53dd517c86edf72081253b50e3fa3d0.jpg",
+         "ea0290905f543f4062e7a340de3fd27e.jpg",
+         "fa8d29ebe22e72607e85b29845846ff2.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-71ca74d8e274373a6b8194b6a978459f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Delgado Baby",
+      "alias":"delgado-baby",
+      "id":"196",
+      "contact":{
+         "phones":[
+            "87 3874-1354"
+         ],
+         "site":"http://www.delgadobaby.com.br/",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/7afef36cc3720c59f4b2a39c0f1a9222.jpg",
+      "galery":[
+         "2997ee3bbf46ce172f8e322391bc9540.jpg",
+         "3dc09275ce87ebc7018b015bfe434d3f.jpg",
+         "4febfa7096f72d9bdcd85dd33bac3805.jpg",
+         "a4f7745f8b4d1c4be373c628ac004b92.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-7afef36cc3720c59f4b2a39c0f1a9222.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Good Chaves",
+      "alias":"good-chaves",
+      "id":"197",
+      "contact":{
+         "phones":[
+            "87 9939-9098"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.886654, -40.086303",
+      "image":"http://www.ourikas.com/media/empresas/intro/b480158e1b575b72f2011634cce56ffb.jpg",
+      "galery":[
+         "17c355cdbb1aaeec8c107f1a630f8ebc.jpg",
+         "ace811aa59d9b67702f1ea7733109906.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b480158e1b575b72f2011634cce56ffb.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Marcionília Veículos",
+      "alias":"marcionilia-veiculos",
+      "id":"198",
+      "contact":{
+         "phones":[
+            "87 3874-2403",
+            "87 3874-1328",
+            "87 9939-8567"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.885458, -40.085697",
+      "image":"http://www.ourikas.com/media/empresas/intro/25aa255111237602d7149a3098216eac.jpg",
+      "galery":[
+         "1472a5b6a7b05db8bb8b8e25e837f978.jpg",
+         "281c07a41dd0510fadcd29d072ff98ca.jpg",
+         "35f3459b0b7b13ff45f2362e038a2f3a.jpg",
+         "3c64f9fec124c793ba947dd1ee5feb7e.jpg",
+         "425286796884b767f73671ccb5d2aa2b.jpg",
+         "5c9c4f52aedb4a7faab0a539f336df11.jpg",
+         "99a7cd7b0e026f89cde6e770b82aab5d.jpg",
+         "fa1bae72e705b8b89fc91c029af2c0e4.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-25aa255111237602d7149a3098216eac.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Farmácia Voluntários",
+      "alias":"farmacia-voluntarios",
+      "id":"199",
+      "contact":{
+         "phones":[
+            "87 3874-3937"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a9e06edb0c8b693f3ccd60f90a537933.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a9e06edb0c8b693f3ccd60f90a537933.jpg",
+      "status":"1"
+   },
+   {
+      "name":"GR Auto Center",
+      "alias":"gr-auto-center",
+      "id":"200",
+      "contact":{
+         "phones":[
+            "87 3874-3186",
+            "87 9951-0186"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"email.gr_autocenter@hotmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/af55b0fc7f122fefe4eb7d55b5ce0bd4.jpg",
+      "galery":[
+         "2fe87b285b825253bceb23bc23ad3647.jpg",
+         "3b8bf12632ca818d7031aacdf9368f12.jpg",
+         "58cf5dd92a3bdb920960ba0bcf33f701.jpg",
+         "a4ccce5f46a0b89dc0d179bbcffdc6be.jpg",
+         "d079275c41b12a6a8f1c613515891805.jpg",
+         "e396a1a0b7b758fd411a25a2ae518289.jpg",
+         "f2f5fd08f19ee50a674da6482db4cbd8.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-af55b0fc7f122fefe4eb7d55b5ce0bd4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"7º BATALHÃO DE POLÍCIA MILITAR",
+      "alias":"7-batalhao-de-policia-militar",
+      "id":"206",
+      "contact":{
+         "phones":[
+            "87 3874-2840"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"centraldo7bpm@yahoo.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/abccd5708bce2e04a8d9a9a8edc003e9.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-abccd5708bce2e04a8d9a9a8edc003e9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"CÂMARA MUNICIPAL DE OURICURI",
+      "alias":"camara-municipal-de-ouricuri",
+      "id":"207",
+      "contact":{
+         "phones":[
+            "87 3874-1002"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"CDL",
+      "alias":"cdl",
+      "id":"208",
+      "contact":{
+         "phones":[
+            "87 3874.3733"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"cdlouricuri@hotmail.com"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.886880, -40.082519",
+      "image":"http://www.ourikas.com/media/empresas/intro/e809c934659736d3a149b96791447b15.jpg",
+      "galery":[
+         "8f1a59c8c29bbfeb5eef3ca94a6a08b6.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e809c934659736d3a149b96791447b15.jpg",
+      "status":"1"
+   },
+   {
+      "name":"CELPE",
+      "alias":"celpe",
+      "id":"209",
+      "contact":{
+         "phones":[
+            "87 (87) 3874-1026"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8ae847caeeb134cf54849e3d30c21a9b.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8ae847caeeb134cf54849e3d30c21a9b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"CONSELHO TUTELAR",
+      "alias":"conselho-tutelar",
+      "id":"210",
+      "contact":{
+         "phones":[
+            "87 9102-8381",
+            "87 9922-0340"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"CARTÓRIO DE REGISTRO CIVIL",
+      "alias":"cartorio-de-registro-civil",
+      "id":"211",
+      "contact":{
+         "phones":[
+            "87 3874-3568"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"COMPESA",
+      "alias":"compesa",
+      "id":"212",
+      "contact":{
+         "phones":[
+            "87 3874-1195"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.884127, -40.084729",
+      "image":"http://www.ourikas.com/media/empresas/intro/2f6db900463befce58cd7daa6e8fbccc.jpg",
+      "galery":[
+         "4dddecf2938eb65f4e14fc7125955b51.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2f6db900463befce58cd7daa6e8fbccc.jpg",
+      "status":"1"
+   },
+   {
+      "name":"CORPO DE BOMBEIROS",
+      "alias":"corpo-de-bombeiros",
+      "id":"213",
+      "contact":{
+         "phones":[
+            "87  3874-2619 ",
+            "87 3874-1111",
+            "87 3874-3059"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Nossa Senhora de Fatima",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5165c003476994214f4ec01da95612a9.jpg",
+      "galery":[
+         "813011efcfa549fb4a7fa5fa6f7e3337.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5165c003476994214f4ec01da95612a9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"HOSPITAL REGIONAL FERNANDO BEZERRA",
+      "alias":"hospital-regional-fernando-bezerra",
+      "id":"214",
+      "contact":{
+         "phones":[
+            "87 3874-4844",
+            "87 3874- 4857"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"secretabm@santacasahrfb.org"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.883226, -40.084458",
+      "image":"http://www.ourikas.com/media/empresas/intro/ffff2d2e37f806700904d8ccdb00ea1a.jpg",
+      "galery":[
+         "39320cfb47248dfe7db874b6d060e303.jpg",
+         "fc6ba145b0562331189e1120733b56e2.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-ffff2d2e37f806700904d8ccdb00ea1a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"IBGE",
+      "alias":"ibge",
+      "id":"215",
+      "contact":{
+         "phones":[
+            "87 3874-1320"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"INSS",
+      "alias":"inss",
+      "id":"216",
+      "contact":{
+         "phones":[
+            "87 3874-1191"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"IX GERES",
+      "alias":"ix-geres",
+      "id":"217",
+      "contact":{
+         "phones":[
+            "87 3874-2514",
+            "87 3874-1035"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"geres9.diretor@saude.pe.gov.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"JUNTA DE SERVIÇO MILITAR",
+      "alias":"junta-de-servico-militar",
+      "id":"218",
+      "contact":{
+         "phones":[
+            "87 9927-8104"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"POLÍCIA CIVIL",
+      "alias":"policia-civil",
+      "id":"219",
+      "contact":{
+         "phones":[
+            "87 3874-4832"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5db6c20ed22debdbd44b2294b0a652a0.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5db6c20ed22debdbd44b2294b0a652a0.jpg",
+      "status":"1"
+   },
+   {
+      "name":"PROCON",
+      "alias":"procon",
+      "id":"220",
+      "contact":{
+         "phones":[
+            "87 3874-1286"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"PREFEITURA MUNICIPAL DE OURICURI",
+      "alias":"prefeitura-municipal-de-ouricuri",
+      "id":"221",
+      "contact":{
+         "phones":[
+            "87 3874-1083"
+         ],
+         "site":"http://ouricuri.pe.gov.br/",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.883622, -40.080272",
+      "image":"http://www.ourikas.com/media/empresas/intro/59312a63bebc2ac9f31c02946bf68f83.jpg",
+      "galery":[
+         "57293f2feee5459f51bfd86b63ec1be6.jpg",
+         "a719ff1707b610d3f54e9c9fd91cc5c6.jpg",
+         "ce55e37b49771d2ddfc81739f9f207dc.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-59312a63bebc2ac9f31c02946bf68f83.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pica Pau Fumê",
+      "alias":"pica-pau-fume",
+      "id":"222",
+      "contact":{
+         "phones":[
+            "87 3874-2510",
+            "87 9651-9596",
+            "87 9155-3836"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3047c73cc9af8783c938706d6883a0a1.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3047c73cc9af8783c938706d6883a0a1.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Multi Ar Climatização",
+      "alias":"multi-ar-climatizacao",
+      "id":"223",
+      "contact":{
+         "phones":[
+            "87 9607-5934",
+            "87 8176-1481"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4b578aed8b88417f8f8da784d1672f76.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4b578aed8b88417f8f8da784d1672f76.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Dario Lanche",
+      "alias":"dario-lanche",
+      "id":"224",
+      "contact":{
+         "phones":[
+            "87 9966-3693"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"...",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/79311a3c2618000c8fb39c1b1ae3d43f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-79311a3c2618000c8fb39c1b1ae3d43f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pousada Vitoria",
+      "alias":"pousada-vitoria",
+      "id":"225",
+      "contact":{
+         "phones":[
+            "87 3874-3064"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/99527612dc49d39ada077e740c1860d6.jpg",
+      "galery":[
+         "091d231f67d52472b642b54d2f4b153f.jpg",
+         "2d06481a969c85e9ffc93f6761d0024a.jpg",
+         "43e745ff5a8bae0065bf53310efcd57d.jpg",
+         "5504c0f49ce131442f28a14bc9738163.jpg",
+         "58ab8393ef978c65153af1471d21d4d4.jpg",
+         "6977d353377468bcdfef37bb7682800a.jpg",
+         "6f28709ddcabc21a68639f2413e5af9a.jpg",
+         "adfa200dab212cb1ab413b8e15a15ce2.jpg",
+         "be4e402d74453dec22deffdaff27380e.jpg",
+         "dd2970787a5b0c0b53b1a52b0d2393f7.jpg",
+         "ff76bcedfeec4f106263ce78f867bd91.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-99527612dc49d39ada077e740c1860d6.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Carlos Luiz Auto Peças",
+      "alias":"carlos-luiz-auto-pecas",
+      "id":"226",
+      "contact":{
+         "phones":[
+            "87 3874-1014",
+            "87 9995-8333",
+            "87 9619-0076"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c290a685477a6e5078039167760bc73a.jpg",
+      "galery":[
+         "447a134ea364c9621470308d96d95569.jpg",
+         "9a9f978e6cf5046f492b69e8daad02c4.jpg",
+         "9c2731a64e41633e7af2741a0c35f80c.jpg",
+         "b9f8339a3f912da1befeeaa2228894b7.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c290a685477a6e5078039167760bc73a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Auto Elétrica Pinguim",
+      "alias":"auto-eletrica-pinguim",
+      "id":"227",
+      "contact":{
+         "phones":[
+            "87 3874-2211",
+            "87 9911-3630",
+            "87 9111-6268"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Salão Belo Fio",
+      "alias":"salao-belo-fio",
+      "id":"228",
+      "contact":{
+         "phones":[
+            "87 9172-2399",
+            "87 9664-5839"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/640d0f5c17d74300bbb31e8ddf20da31.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-640d0f5c17d74300bbb31e8ddf20da31.jpg",
+      "status":"1"
+   },
+   {
+      "name":"PH Veículos",
+      "alias":"ph-veiculos",
+      "id":"229",
+      "contact":{
+         "phones":[
+            "87 3874-1765",
+            "87 9999--0550",
+            "87 9941-6641"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/f503ad76dd43fdd64ec7df3e1996b701.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f503ad76dd43fdd64ec7df3e1996b701.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Yasmim Moto Peças",
+      "alias":"yasmim-moto-pecas",
+      "id":"230",
+      "contact":{
+         "phones":[
+            "87 9992-8077"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Globojet",
+      "alias":"globojet",
+      "id":"231",
+      "contact":{
+         "phones":[
+            "87 3874-1628"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b6937ab588f92bcda0a61017fd0780ab.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b6937ab588f92bcda0a61017fd0780ab.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Farmácia Lafepe",
+      "alias":"farmacia-lafepe",
+      "id":"232",
+      "contact":{
+         "phones":[
+            "87 3874-1333"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"JR Presentes e Variedades",
+      "alias":"jr-presentes-e-variedades",
+      "id":"233",
+      "contact":{
+         "phones":[
+            "87 9205-9242",
+            "87 3967-5028"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/270858f031ee794b940c0af20229eaad.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-270858f031ee794b940c0af20229eaad.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Carneiro na Brasa",
+      "alias":"restaurante-carneiro-na-brasa",
+      "id":"234",
+      "contact":{
+         "phones":[
+            "87 9960-3496",
+            "87 9665-9864"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.890092, -40.088103",
+      "image":"http://www.ourikas.com/media/empresas/intro/9d7f345411c46af0a144580a5e666550.jpg",
+      "galery":[
+         "078b785c10d45e92c77497ccb7c53063.jpg",
+         "2cfc84309e37f218a02dc7d6d9d3666a.jpg",
+         "5ffbeb02e35ffffa5a22a750fb693409.jpg",
+         "6306049c23253d20a7fa77357f38be17.jpg",
+         "98481206c7ab385bf5d40eaba255e86a.jpg",
+         "a8628dfea189f7e404ed9ac0666d6dd7.jpg",
+         "fe69106be3d27b6b278a60ffe59729bb.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-9d7f345411c46af0a144580a5e666550.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Van Tintas",
+      "alias":"van-tintas",
+      "id":"235",
+      "contact":{
+         "phones":[
+            "87 3874-3326",
+            "87 9998-4796"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/52b099c451be65af0c222a5cbacb12f3.jpg",
+      "galery":[
+         "21d3b03ff9194a4b0a55900c14ba1744.jpg",
+         "25dfc4ca87d63e214f29ef8ad2913564.jpg",
+         "32e2c839de68e78ac4aab8f2cfa4c1ca.jpg",
+         "38b3a09a1d6f4817701deb7e0adb8166.jpg",
+         "44bf764e6b647779757ad4d6a18de6a0.jpg",
+         "4b51868991c3a49198624baed48bc922.jpg",
+         "5c70af832376d1e23be39fd97259e043.jpg",
+         "7502b2a8ab1c2735e9f717bbbe599831.jpg",
+         "8593f75c6113e9fae3e345cf6a0c7809.jpg",
+         "b173974b67c9b2eaabeada174062650c.jpg",
+         "c6ca4552bb198b6154a4b5856530b439.jpg",
+         "c9e4a6025a205fd137c881d5b6c077c7.jpg",
+         "eb88a164f1652d1ac08301c3a677c332.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-52b099c451be65af0c222a5cbacb12f3.jpg",
+      "status":"1"
+   },
+   {
+      "name":"CD Cell",
+      "alias":"cd-cell",
+      "id":"236",
+      "contact":{
+         "phones":[
+            "87 9633-7227",
+            "87 9108-8553"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Laboratório Vicente Lemos",
+      "alias":"laboratorio-vicente-lemos",
+      "id":"237",
+      "contact":{
+         "phones":[
+            "87 9638-7988",
+            "87 9118-0388"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/9ef78b4b949db37cb658661b849e3cc7.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-9ef78b4b949db37cb658661b849e3cc7.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Agência dos Correios",
+      "alias":"agencia-dos-correios",
+      "id":"238",
+      "contact":{
+         "phones":[
+            "87 3874-1722"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"peacouricuri@correios.com.br"
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200970"
+      },
+      "geolocation":" -7.885440, -40.082025",
+      "image":"http://www.ourikas.com/media/empresas/intro/9bcda2a43f6d410bb9456f762cc01dfb.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-9bcda2a43f6d410bb9456f762cc01dfb.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Festa de Janeiro",
+      "alias":"festa-de-janeiro",
+      "id":"239",
+      "contact":{
+         "phones":[
+
+         ],
+         "site":"http://festadejaneiro.ourikas.com/",
+         "facebook":"https://www.facebook.com/ourikasoficial",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"-7.880259, -40.089489",
+      "image":"http://www.ourikas.com/media/empresas/intro/c3e47c04cb20a4d784e7f50be33d35a1.jpg",
+      "galery":[
+         "5963dc33af1b0100629ffe878ac2b409.jpg",
+         "853536e4c30dd53e3cef87c3a52d4d0b.jpg",
+         "9795596aa1e247a18329f390edcbe1e0.jpg",
+         "bab8ca7c420ac3b1e1e780d39de874d0.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c3e47c04cb20a4d784e7f50be33d35a1.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Henrique Vidros",
+      "alias":"henrique-vidros",
+      "id":"240",
+      "contact":{
+         "phones":[
+            "87 3874-3984"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/henriquevidros.vidracaria",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e5e294bfdde88a68663de784058c964f.jpg",
+      "galery":[
+         "2d86bf46583c0d27c5976d2ee80178fb.jpg",
+         "597b94549e9306d997f13a90b8699ee7.jpg",
+         "75d7ecbc83d8f4cfb33f617b7e225cb4.jpg",
+         "8805be21e77670b28dd6d7d242b9f440.jpg",
+         "a2a7cffb24bcfc257a962e4099d0e107.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e5e294bfdde88a68663de784058c964f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"COSNTRU-CASA",
+      "alias":"cosntru-casa",
+      "id":"241",
+      "contact":{
+         "phones":[
+            "87 3874-3234",
+            "87 9944-5555",
+            "87 91600190"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Amorim Embalagens",
+      "alias":"amorim-embalagens",
+      "id":"242",
+      "contact":{
+         "phones":[
+            "87 9936-0570",
+            "87 9111-8650"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Santa Luzia",
+      "alias":"restaurante-santa-luzia",
+      "id":"243",
+      "contact":{
+         "phones":[
+
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e2dcda4897d33c4c6f501ab586aa2b3d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e2dcda4897d33c4c6f501ab586aa2b3d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ciclopeças Marques",
+      "alias":"ciclopecas-marques",
+      "id":"244",
+      "contact":{
+         "phones":[
+            "87 3874-1871"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/ciclopecasmarques.marques/",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/7fb36c2f2e1021cd7da28539235eace7.jpg",
+      "galery":[
+         "abd8937e42262799f3c8cade1e456791.jpg",
+         "c6511734cbb3df9c9339413f112cb760.jpg",
+         "f9992a3c92ffb1e99bb0804698bf3ccc.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-7fb36c2f2e1021cd7da28539235eace7.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Neves Jóias",
+      "alias":"neves-joias",
+      "id":"245",
+      "contact":{
+         "phones":[
+            "87 3874-2276"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"NFePROTECTION",
+      "alias":"nfeprotection",
+      "id":"246",
+      "contact":{
+         "phones":[
+            "87 3874-2866"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b9193f5d8ad090070c569d2aacc5a1fb.jpg",
+      "galery":[
+         "38594efeee5d72103ba2dbe98fd2932c.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b9193f5d8ad090070c569d2aacc5a1fb.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Algaroba Corretora de Veículos",
+      "alias":"algaroba-corretora-de-veiculos",
+      "id":"247",
+      "contact":{
+         "phones":[
+            "87 9999-3697",
+            "87 9131-4878",
+            "87 9646-2255"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"São Francisco Oficina e Torneadora",
+      "alias":"sao-francisco-oficina-e-torneadora",
+      "id":"248",
+      "contact":{
+         "phones":[
+            "87 3874-3933",
+            "87 9939-9369"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8b75fd0d40dbbffeba9a8f540847c6a4.jpg",
+      "galery":[
+         "7968f206868047957675b5b78ac8f350.jpg",
+         "902dc6fbe75688896441a0c4a1244b99.jpg",
+         "bce0eabbab76dbd70644126e47662a70.jpg",
+         "e6c29d65ef716eb80a6fe5129b3d0390.jpg",
+         "f293c9fb6e9b25efe9548c1a3891a40c.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8b75fd0d40dbbffeba9a8f540847c6a4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Granja Frei Damião",
+      "alias":"granja-frei-damiao",
+      "id":"249",
+      "contact":{
+         "phones":[
+            "87 3874-4533",
+            "87 9615-1402"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5706e276f69d1e5d3b293a676bdf6a04.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5706e276f69d1e5d3b293a676bdf6a04.jpg",
+      "status":"1"
+   },
+   {
+      "name":"EXTIMAC",
+      "alias":"extimac",
+      "id":"250",
+      "contact":{
+         "phones":[
+            "87 3873-0749",
+            "87 9205-8069"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e55fe17e1a6d4caa9ec24c4359b9f398.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e55fe17e1a6d4caa9ec24c4359b9f398.jpg",
+      "status":"1"
+   },
+   {
+      "name":"William Fernandes",
+      "alias":"william-fernandes",
+      "id":"251",
+      "contact":{
+         "phones":[
+            "87 9998-0772",
+            "87 9129-1040"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3cedb6080e25e03e4edb79c709bfda00.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3cedb6080e25e03e4edb79c709bfda00.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Compu Shopping",
+      "alias":"compu-shopping",
+      "id":"252",
+      "contact":{
+         "phones":[
+            "87 3874-3575"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.885732, -40.084096",
+      "image":"http://www.ourikas.com/media/empresas/intro/164f0c4ac01ca890916d8dccf7da5631.jpg",
+      "galery":[
+         "f9d63e3cbbe16a79f4d3d4dcd3f6f4a6.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-164f0c4ac01ca890916d8dccf7da5631.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Posto Quixadá - Postos BIBI",
+      "alias":"posto-quixada-postos-bibi",
+      "id":"253",
+      "contact":{
+         "phones":[
+            "87 3874-1375",
+            "87 3874-1331"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Posto Transamazônica - Postos BIBI",
+      "alias":"posto-transamazonica-postos-bibi",
+      "id":"254",
+      "contact":{
+         "phones":[
+            "87 3874-1203",
+            "87 3874-1375"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Droga Center",
+      "alias":"droga-center",
+      "id":"255",
+      "contact":{
+         "phones":[
+            "87 3874-1036"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/092d3485181395d853a3427dba03c008.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-092d3485181395d853a3427dba03c008.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Alfredo Ligue Gás",
+      "alias":"alfredo-ligue-gas",
+      "id":"256",
+      "contact":{
+         "phones":[
+            "87 3874-1996",
+            "87 3874-4317"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e9b938877226bf9c5c418044be810ac2.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e9b938877226bf9c5c418044be810ac2.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Bicimotos",
+      "alias":"bicimotos",
+      "id":"257",
+      "contact":{
+         "phones":[
+            "87 3874-3550",
+            "87 9609-3309",
+            "87 9125-4660",
+            "87 9640-7770"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Estação dos Pasteis",
+      "alias":"estacao-dos-pasteis",
+      "id":"258",
+      "contact":{
+         "phones":[
+            "87 9971-1805",
+            "87 8817-4017"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.886343, -40.083785",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Lava Jato do Daniel",
+      "alias":"lava-jato-do-daniel",
+      "id":"259",
+      "contact":{
+         "phones":[
+            "87 9939-6036",
+            "87 9120-8278"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.888415, -40.077160",
+      "image":"http://www.ourikas.com/media/empresas/intro/22b23bbe194b9fa1e45e6578ccc45b33.jpg",
+      "galery":[
+         "278bca67fa6ccf9c4d4f33a4f1894f93.jpg",
+         "4315ac2aefa1cf12a4dba4b13534ea22.jpg",
+         "593dfff6451f456ec855c1a005b490f6.jpg",
+         "78c4d9ae7dc7497813e297cb2260b984.jpg",
+         "884d103b4e553fd08d8d0bd54807e307.jpg",
+         "8ccef0daf684431e8f395347f4ff0fa7.jpg",
+         "9992269baf6c4ec4cc4cbd88a3e46019.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-22b23bbe194b9fa1e45e6578ccc45b33.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Art Estampa",
+      "alias":"art-estampa",
+      "id":"260",
+      "contact":{
+         "phones":[
+            "87 3874-2405"
+         ],
+         "site":"http://art-estampa.blogspot.com.br/",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/f5a0cb31c1c51211ef94e7d9222abbe4.jpg",
+      "galery":[
+         "2f7d845b022a625466a09813feab252d.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-f5a0cb31c1c51211ef94e7d9222abbe4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Centro de Beleza",
+      "alias":"centro-de-beleza",
+      "id":"261",
+      "contact":{
+         "phones":[
+            "87 9953-5335"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Mercantil Carlos",
+      "alias":"mercantil-carlos",
+      "id":"262",
+      "contact":{
+         "phones":[
+            "87 3874-1686"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8d4e72a7ff51969d39a93ac42c8f189a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8d4e72a7ff51969d39a93ac42c8f189a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Churrascaria Leo",
+      "alias":"churrascaria-leo",
+      "id":"263",
+      "contact":{
+         "phones":[
+            "87 9675-7851",
+            "87 8117-1354"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/fda0ec5ae4f8a7b28c8b5798965ee5f4.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-fda0ec5ae4f8a7b28c8b5798965ee5f4.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Chico Guilherme",
+      "alias":"restaurante-chico-guilherme",
+      "id":"264",
+      "contact":{
+         "phones":[
+            "87 9939-6213",
+            "87 9161-2154"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Frigorífico Cavalcante",
+      "alias":"frigorifico-cavalcante",
+      "id":"271",
+      "contact":{
+         "phones":[
+            "87 9961-5917",
+            "87 9111-2949"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Gráfica e Papelaria Criarts",
+      "alias":"grafica-e-papelaria-criarts",
+      "id":"277",
+      "contact":{
+         "phones":[
+            "87 3874-2363",
+            "87 9633-7561",
+            "87 9129-1192"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Semelhants Cosméticos",
+      "alias":"semelhants-cosmeticos",
+      "id":"278",
+      "contact":{
+         "phones":[
+            "87 9638-5164"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Metalúrgica do Galego",
+      "alias":"metalurgica-do-galego",
+      "id":"279",
+      "contact":{
+         "phones":[
+            "87 9658-5029"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/972dca7a662534f4f0409445f8c93293.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-972dca7a662534f4f0409445f8c93293.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Mercadinho Soares",
+      "alias":"mercadinho-soares",
+      "id":"280",
+      "contact":{
+         "phones":[
+            "87 9633-7567",
+            "87 9187-9716"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Art & Manha",
+      "alias":"art-e-manha",
+      "id":"281",
+      "contact":{
+         "phones":[
+            "87 3874-2236"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Mercantil Pioneiro",
+      "alias":"mercantil-pioneiro",
+      "id":"282",
+      "contact":{
+         "phones":[
+            "87 9649-0971",
+            "87 9149-5175"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/89fe300bf87d6983899d0d126a39901f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-89fe300bf87d6983899d0d126a39901f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Pizzaria Paulistana",
+      "alias":"pizzaria-paulistana",
+      "id":"283",
+      "contact":{
+         "phones":[
+            "87 3874-4455",
+            "87 9955-4048",
+            "87 9118-5112"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/50834da2f7922f36faf6d35504eaba41.jpg",
+      "galery":[
+         "c830f15dc3f96f43d419f580c51cae54.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-50834da2f7922f36faf6d35504eaba41.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Paf Vida / Floricultura Flor Encanto",
+      "alias":"paf-vida-/-floricultura-flor-encanto",
+      "id":"284",
+      "contact":{
+         "phones":[
+            "87 3874-2324",
+            "87 3874-3152"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Vidraçaria Cardoso",
+      "alias":"vidracaria-cardoso",
+      "id":"285",
+      "contact":{
+         "phones":[
+            "87 3874-2962",
+            "87 9613-1258"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/acc2d2de60686838f3bf756bf02d7739.jpg",
+      "galery":[
+         "2a9d75cf877813c289d73cbc9b3caea6.jpg",
+         "2c5808bf69e75e2a8bc09f8ffcb322ff.jpg",
+         "4b5a88819dd3da6753d1410ef245a84d.jpg",
+         "72a27dc544021fee88ada07c7fbda112.jpg",
+         "a0841e05879aaff9b1ced52c2e559815.jpg",
+         "ab9698fea107a9b302426822d81d7e0d.jpg",
+         "db733b9050fd3ec58f7757553b971102.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-acc2d2de60686838f3bf756bf02d7739.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Chagas Pintora",
+      "alias":"chagas-pintora",
+      "id":"286",
+      "contact":{
+         "phones":[
+            "87 9131-4068",
+            "87 9645-4046"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/794281d45055a7b7dad6529d4ed952b5.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-794281d45055a7b7dad6529d4ed952b5.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Restaurante Degustar",
+      "alias":"restaurante-degustar",
+      "id":"287",
+      "contact":{
+         "phones":[
+            "87 9939-0125",
+            "87 9148-4044"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Matermaria Centro Médico",
+      "alias":"matermaria-centro-medico",
+      "id":"288",
+      "contact":{
+         "phones":[
+            "87 3874-1115"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Papelaria Santa Quiteria",
+      "alias":"papelaria-santa-quiteria",
+      "id":"289",
+      "contact":{
+         "phones":[
+            "87 9939-2813"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/005a096431187038ef328663c8ff878e.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-005a096431187038ef328663c8ff878e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Madeireira Padre Cicero",
+      "alias":"madeireira-padre-cicero",
+      "id":"290",
+      "contact":{
+         "phones":[
+            "87 3874-2304",
+            "87 3874-3954"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Nossa Senhora de Fatima",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/0f337b2a8a4cabee856d965e70d84182.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-0f337b2a8a4cabee856d965e70d84182.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Dedé Pintor",
+      "alias":"dede-pintor",
+      "id":"291",
+      "contact":{
+         "phones":[
+            "87 9168-2545",
+            "87 9651-3245"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/291d690d4f438a68ea966571f9db7f52.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-291d690d4f438a68ea966571f9db7f52.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ailton Leite",
+      "alias":"ailton-leite",
+      "id":"292",
+      "contact":{
+         "phones":[
+            "87 9999-4210"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c52c1d445b483dd578e354acbfbec494.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c52c1d445b483dd578e354acbfbec494.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Araripe Seguros",
+      "alias":"araripe-seguros",
+      "id":"293",
+      "contact":{
+         "phones":[
+            "87 3874-2369"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e86add49b4a3276730555b35b01b1816.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e86add49b4a3276730555b35b01b1816.jpg",
+      "status":"1"
+   },
+   {
+      "name":"ARTVIDROS",
+      "alias":"artvidros",
+      "id":"294",
+      "contact":{
+         "phones":[
+            "87 3874-1172"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c249914493a3d0f44d58887199f90928.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c249914493a3d0f44d58887199f90928.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Tamboril Rações",
+      "alias":"tamboril-racoes",
+      "id":"295",
+      "contact":{
+         "phones":[
+            "87 3874-1172"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/4be5021706a782bf639f9c3c6234b220.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-4be5021706a782bf639f9c3c6234b220.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Distribuidora de Água Mineral Lima",
+      "alias":"distribuidora-de-agua-mineral-lima",
+      "id":"296",
+      "contact":{
+         "phones":[
+            "87 3874-1049",
+            "87 9935-0013",
+            "87 9122-4038"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"New Collection",
+      "alias":"new-collection",
+      "id":"297",
+      "contact":{
+         "phones":[
+            "87 3874-2066",
+            "87 9970-7180"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/96d06d0d5a55f87f61169f071387c88e.jpg",
+      "galery":[
+         "24e33d3c0f2bad63281d75a8cd916298.jpg",
+         "3f513fbbf2925d28d9bce1db7e16aba9.jpg",
+         "4b37230272637096e0b92decbaa32217.jpg",
+         "5daced96b19738e09d1dcd6e4a2b33aa.jpg",
+         "9799a66c2152127d67c687174a054c6b.jpg",
+         "a71700f1ad6551202944686ed868afa2.jpg",
+         "b066c223e0aabf782133dcd86d5117df.jpg",
+         "cc1db8de130570e4137c2c71dffa161b.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-96d06d0d5a55f87f61169f071387c88e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Farmácia Rocha",
+      "alias":"farmacia-rocha",
+      "id":"298",
+      "contact":{
+         "phones":[
+            "87 9934-6140"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e5b2a7d5cabb14c6252ccb171ac5cc0f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e5b2a7d5cabb14c6252ccb171ac5cc0f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Moto Peças Honórilo",
+      "alias":"moto-pecas-honorilo",
+      "id":"299",
+      "contact":{
+         "phones":[
+            "87 9626-4948",
+            "87 9926-6763"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/3d735e01109e7109f647b45f7a534477.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-3d735e01109e7109f647b45f7a534477.jpg",
+      "status":"1"
+   },
+   {
+      "name":"A Criativa",
+      "alias":"a-criativa",
+      "id":"300",
+      "contact":{
+         "phones":[
+            "87 3874-2143"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/63973c600cd9031e3366f6db3af2b77d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-63973c600cd9031e3366f6db3af2b77d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Diogo Cell",
+      "alias":"diogo-cell",
+      "id":"301",
+      "contact":{
+         "phones":[
+            "87 9606-5448"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/13fc3fa6c9aedfafbe4888b56421090c.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-13fc3fa6c9aedfafbe4888b56421090c.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Madeireira Central III",
+      "alias":"madeireira-central-iii",
+      "id":"302",
+      "contact":{
+         "phones":[
+            "87 9906-5432"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/d915e510985bbfa88ff18c6c35f5f90f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-d915e510985bbfa88ff18c6c35f5f90f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Mercadinho Medeiros",
+      "alias":"mercadinho-medeiros",
+      "id":"303",
+      "contact":{
+         "phones":[
+            "87 9915-5093",
+            "87 9101-6667",
+            "87 9970-8042"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2e15990b260b1aab2e075ee05a1d01ce.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2e15990b260b1aab2e075ee05a1d01ce.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Cordeiro Auto Center",
+      "alias":"cordeiro--auto-center",
+      "id":"304",
+      "contact":{
+         "phones":[
+            "87 3874-1617"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Ramon Acessórios",
+      "alias":"ramon-acessorios",
+      "id":"305",
+      "contact":{
+         "phones":[
+            "87 3874-1960"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/bd0a8bd18b879077dfd72eb4fd87e20f.jpg",
+      "galery":[
+         "052ccfe74a8f0cebd038640d5d90db30.jpg",
+         "3045e60f673aff22fd80c91caac550bf.jpg",
+         "3ff3ebf5a0afaa9f058d3a3852f100dd.jpg",
+         "4a791b39c7991662c8a38758673c4ca3.jpg",
+         "5d4b737155b68fe711feed012b413ee3.jpg",
+         "8f263d72d0710ce201f72354d42b85de.jpg",
+         "ab3a673ad7c4bbab7b77715e936c91b7.jpg",
+         "fdb264560e692122b2fcfd19ec5a8d7e.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bd0a8bd18b879077dfd72eb4fd87e20f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Moto-táxi Central",
+      "alias":"moto-taxi-central",
+      "id":"306",
+      "contact":{
+         "phones":[
+            "87 3874-1616"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/192b90aac3a7b64066b5d33c3af14c8a.jpg",
+      "galery":[
+         "604d629656a5e1a87274117ec9141da0.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-192b90aac3a7b64066b5d33c3af14c8a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"MM CELL",
+      "alias":"mm-cell",
+      "id":"307",
+      "contact":{
+         "phones":[
+            "87 3874-3136",
+            "87 9903-3637",
+            "87 9158-7023"
+         ],
+         "site":"",
+         "facebook":"https://www.facebook.com/pages/MM-cell/397137500357427",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":" -7.887257, -40.082069",
+      "image":"http://www.ourikas.com/media/empresas/intro/bb6f0e8c5974c42ccc8b0331905f04f9.jpg",
+      "galery":[
+         "297aade55d2f183a65c4664a60e53253.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bb6f0e8c5974c42ccc8b0331905f04f9.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Centro de Beleza Revittallis",
+      "alias":"centro-de-beleza-revittallis",
+      "id":"308",
+      "contact":{
+         "phones":[
+            "87 9634-4118"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"Alencar Motopeças",
+      "alias":"alencar-motopecas",
+      "id":"309",
+      "contact":{
+         "phones":[
+            "87 3874-4519",
+            "87 9955-0436"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/8f73525e4633c3fe4c8b5fdd3d756d0b.jpg",
+      "galery":[
+         "f6f72bd4d96a0d471d482e52f40d8f73.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-8f73525e4633c3fe4c8b5fdd3d756d0b.jpg",
+      "status":"1"
+   },
+   {
+      "name":"JL.NET",
+      "alias":"jl.net",
+      "id":"310",
+      "contact":{
+         "phones":[
+            "87 3874-1472",
+            "87 9613-2163"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/5e75421d3dc20e677ff9a85db5dd6b20.jpg",
+      "galery":[
+         "bf27a2cb99b56715a3f5a0cfb5dff2a8.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-5e75421d3dc20e677ff9a85db5dd6b20.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Estilo Festas e Confeitaria",
+      "alias":"estilo-festas-e-confeitaria",
+      "id":"311",
+      "contact":{
+         "phones":[
+            "87 9927-0517",
+            "87 9139-7826"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/908e8041b40ba25b1981059480acb108.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-908e8041b40ba25b1981059480acb108.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Eletro Refritec",
+      "alias":"eletro-refritec",
+      "id":"312",
+      "contact":{
+         "phones":[
+            "87 9925-7633",
+            "87 9153-2726"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/bfe5de07618f8679c7b7006f7a34f585.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-bfe5de07618f8679c7b7006f7a34f585.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Deposito Santa Maria",
+      "alias":"deposito-santa-maria",
+      "id":"313",
+      "contact":{
+         "phones":[
+            "87 9929-6585",
+            "87 91518868"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c80ee31ca9e8f92be4be0cd212f2b2ed.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c80ee31ca9e8f92be4be0cd212f2b2ed.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Léo AutoCar",
+      "alias":"leo-autocar",
+      "id":"314",
+      "contact":{
+         "phones":[
+            "87 9659-8276"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/2e0240ab0aa5ebc85a5e05c3db03433d.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-2e0240ab0aa5ebc85a5e05c3db03433d.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Sttilo Pinturas",
+      "alias":"sttilo-pinturas",
+      "id":"315",
+      "contact":{
+         "phones":[
+            "87 9956-1713",
+            "87 9109-8414"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/340bf2c3e8aaa033547b0135937d4006.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-340bf2c3e8aaa033547b0135937d4006.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Oficiana do Fofão",
+      "alias":"oficiana-do-fofao",
+      "id":"316",
+      "contact":{
+         "phones":[
+            "87 3874-3502",
+            "87 9937-1398",
+            "87 9125-6029"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/929975f030915dad1b93e945a094990f.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-929975f030915dad1b93e945a094990f.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Miranda Veículos",
+      "alias":"miranda-veiculos",
+      "id":"317",
+      "contact":{
+         "phones":[
+            "87 3874-2950"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Santa Maria",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/b67dcb1784283c68590752e0c3fb9de0.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-b67dcb1784283c68590752e0c3fb9de0.jpg",
+      "status":"1"
+   },
+   {
+      "name":"A Insinuante",
+      "alias":"a-insinuante",
+      "id":"318",
+      "contact":{
+         "phones":[
+            "87 3874-2167"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/a134fe7b10b9f70adee472b26dc6882a.jpg",
+      "galery":[
+
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-a134fe7b10b9f70adee472b26dc6882a.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Ouricuri Computadores",
+      "alias":"ouricuri-computadores",
+      "id":"319",
+      "contact":{
+         "phones":[
+            "87 3874-2670",
+            "87 9936-0776"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/e8ecce01020c1270fb580fa909bc938e.jpg",
+      "galery":[
+         "a916390764aa34343d07e83d7f82cb6e.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-e8ecce01020c1270fb580fa909bc938e.jpg",
+      "status":"1"
+   },
+   {
+      "name":"Apolly Arts",
+      "alias":"appoly-arts",
+      "id":"320",
+      "contact":{
+         "phones":[
+            "87 3874-1818",
+            "87 9988-0267"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":""
+      },
+      "address":{
+         "street":"Centro",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":null,
+      "galery":[
+
+      ],
+      "thumb":null,
+      "status":"1"
+   },
+   {
+      "name":"DJ NET",
+      "alias":"dj-net",
+      "id":"321",
+      "contact":{
+         "phones":[
+            "87 3874-4434",
+            "87 9917-4994"
+         ],
+         "site":"",
+         "facebook":"",
+         "email":"djnet.renan@hotmail.com"
+      },
+      "address":{
+         "street":"Santo Antonio",
+         "city":"Ouricuri",
+         "state":"PE",
+         "zip":"56200-000"
+      },
+      "geolocation":"",
+      "image":"http://www.ourikas.com/media/empresas/intro/c0bf37597b7cee652b369dddb3325069.jpg",
+      "galery":[
+         "a87916fb58bf354a681e3bf449aefb08.jpg"
+      ],
+      "thumb":"http://www.ourikas.com/media/empresas/intro/thumb-c0bf37597b7cee652b369dddb3325069.jpg",
+      "status":"1"
+   }
+]
