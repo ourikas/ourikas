@@ -11,7 +11,7 @@ gulp.task('manifest', function(){
             ])
     .pipe(manifest({
       hash: true,
-      preferOnline: true,
+      preferOnline: false,
       network: ['http://*', 'https://*', '*'],
       cache: [
               '//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js'
