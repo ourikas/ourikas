@@ -6,9 +6,10 @@ cp -R .git tmp-deploy
 cp -R app tmp-deploy
 cd tmp-deploy
 git add .
-git commit S--allow-empty-message -m ""
-git push origin :gh-pages
-git subtree push --prefix app origin gh-pages
+git commit --allow-empty-message -m ""
+git remote set-url ourikas git@github.com:Ourikas/ourikas.github.io.git
+git push ourikas :master
+git subtree push --prefix app ourikas master
 cd ..
 rm -Rf tmp-deploy
 echo "Done!"
