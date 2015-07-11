@@ -33,7 +33,7 @@
         <h3 ng-bind="c.name"></h3>
         <p ng-bind="c.description" class="description"></p>
         <p>
-          <a href="{{'tel://' + p}}" class="phone" ng-repeat="p in c.contact.phones" ng-bind="p"></a>
+          <a href="{{'tel:' + p}}" class="phone" ng-repeat="p in c.contact.phones" ng-bind="p"></a>
         </p>
       </li>
     </ul>
