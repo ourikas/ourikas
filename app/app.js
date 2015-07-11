@@ -3,7 +3,7 @@
 // Declare app level module which depends on views, and components
 angular.module('myApp', [])
 
-.controller('SearchController', ['$scope', '$http', function($scope, $http) {
+.controller('SearchController', ['$scope', '$http', '$filter', function($scope, $http, $filter) {
     var containTerm = function(company) {
       return company.name
         .toLowerCase()
@@ -16,7 +16,7 @@ angular.module('myApp', [])
 
     $scope.$watch('searchTerm', function(term) {
       console.log(term);
-      $scope.searchResult = $scope.companies.filter(containTerm);
+      $scope.searchResult = $filter('limitTo')($scope.companies.filter(containTerm), 20);
     });
 
     $http.get('companies.json')
