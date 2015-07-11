@@ -23,8 +23,10 @@
   <![endif]-->
 
   <main ng-controller="SearchController">
-    <h1>Ourikas</h1>
-    <input class="search-field" placeholder="buscar..." type="search" ng-model="searchTerm" autofocus>
+    <header>
+      <h1>Ourikas</h1>
+      <input class="search-field" placeholder="buscar..." type="search" ng-model="searchTerm" autofocus>
+    </header>
 
     <ul class="search-result">
       <li ng-repeat="c in searchResult" class="company">
