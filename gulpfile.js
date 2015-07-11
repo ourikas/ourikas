@@ -53,4 +53,6 @@ gulp.task('watch', function () {
   gulp.watch('./app/**/*', ['manifest']);
 });
 
+gulp.task('build', ['sass']);
+
 gulp.task('serve', ['connect', 'watch']);
