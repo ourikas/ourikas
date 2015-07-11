@@ -5,7 +5,8 @@ mkdir tmp-deploy
 cp -R .git tmp-deploy
 cp -R app tmp-deploy
 cd tmp-deploy
-git commit -a --allow-empty-message -m ""
+git add .
+git commit S--allow-empty-message -m ""
 git push origin :gh-pages
 git subtree push --prefix app origin gh-pages
 cd ..
