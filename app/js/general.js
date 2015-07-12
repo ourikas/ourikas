@@ -9,3 +9,8 @@ $('.search-result').on('click', '.company', function() {
     }, 800);
   }, 300);
 });
+
+
+$('.full-page').on('click input', function(){
+  $(this).removeClass('full-page');
+});

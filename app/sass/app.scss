@@ -1,4 +1,4 @@
-$primary-color: #2980b9;
+$primary-color: #3075B0;
 
 * {
   box-sizing: border-box;
@@ -10,11 +10,13 @@ main {
   header {
     background: $primary-color;
     padding: 5px 10px 20px 10px;
+    transition-duration: .3s;
 
     h1 {
       color: white;
       text-align: center;
       margin: 3px;
+      transition-duration: .3s;
     }
 
     .search-field {
@@ -31,6 +33,16 @@ main {
       &:focus {
         opacity: 1;
       }
+    }
+
+    &.full-page {
+      min-height: 100vh;
+      padding-top: 200px;
+
+       h1 {
+         font-size: 3em;
+         margin: 13px 0;
+       }
     }
   }
 
