@@ -35,14 +35,17 @@ main {
   }
 
   ul.search-result {
-    padding: 10px;
+    padding: 0;
+    margin: 0;
 
     li.company {
       list-style: none;
-      margin: 10px 0;
+      padding: 10px;
+      margin-bottom: 3px;
       clear: both;
-      min-height: 61px;
-      
+      min-height: 80px;
+      transition-duration: .3s;
+      background: #f4f7f9;
 
       h3 {
         font-size: 1em;
@@ -66,6 +69,7 @@ main {
       .phone {
         color: $primary-color;
         margin-right: 12px;
+        display: none;
       }
 
       img {
@@ -74,6 +78,48 @@ main {
         float: left;
         margin-right: 10px;
         border-radius: 50%;
+        transition-duration: .3s;
+      }
+
+      &.company-full {
+        text-align: center;
+        background: $primary-color;
+        font-size: 1.3em;
+        padding: 50px 10px;
+
+        img {
+          float: none;
+          margin: 10px;
+          width: 150px;
+          height: 150px;
+        }
+
+        p,
+        h3 {
+          white-space: normal;
+          color: white;
+        }
+
+        h3 {
+          margin: 13px 0;
+        }
+
+        p {
+          margin: 10px 0;
+          .phone {
+            display: inline-block;
+            font-weight: bold;
+            padding: 7px 20px;
+            border-radius: 3px;
+            background-color: white;
+            text-decoration: none;
+            margin: 7px;
+
+            &:active {
+              background-color: #adcff7;
+            }
+          }
+        }
       }
     }
   }
