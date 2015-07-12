@@ -1,9 +1,12 @@
 logs/*
 !.gitkeep
 node_modules/
-bower_components/
 tmp
 .DS_Store
 .idea
+
+# GENERATED
+bower_components/
 app/app.css
 app/app.js
+app/app.manifest
