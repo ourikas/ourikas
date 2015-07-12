@@ -6,3 +6,4 @@ tmp
 .DS_Store
 .idea
 app/app.css
+app/app.js
