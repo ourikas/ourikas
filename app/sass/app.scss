@@ -4,6 +4,10 @@ $primary-color: #3075B0;
   box-sizing: border-box;
 }
 
+body {
+  background: $primary-color;
+}
+
 main {
   margin: 0;
 
@@ -37,7 +41,8 @@ main {
 
     &.full-page {
       min-height: 100vh;
-      padding-top: 200px;
+      padding-top: 40px;
+      padding-top: 30%;
 
        h1 {
          font-size: 3em;
@@ -49,6 +54,7 @@ main {
   ul.search-result {
     padding: 0;
     margin: 0;
+    background: white;
 
     li.company {
       list-style: none;
