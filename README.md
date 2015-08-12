@@ -2,6 +2,8 @@
 
 # Ourikas - Just find
 
+[![Join the chat at https://gitter.im/Ourikas/ourikas](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Ourikas/ourikas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ourikas is place to find places.
 You can use it to quickly find contact information of companies and services. Browse to the app at [http://ourikas.github.io](http://ourikas.github.io).
 
