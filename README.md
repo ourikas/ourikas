@@ -3,7 +3,7 @@
 # Ourikas - Just find
 
 Ourikas is place to find places.
-You can use it to quickly find contact information of companies and services.
+You can use it to quickly find contact information of companies and services. Browse to the app at [http://ourikas.github.io](http://ourikas.github.io).
 
 ## Getting Started
 
