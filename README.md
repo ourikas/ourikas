@@ -1,67 +1,66 @@
 [![Build Status](https://snap-ci.com/Ourikas/ourikas/branch/master/build_image)](https://snap-ci.com/Ourikas/ourikas/branch/master)
 
-# Ourikas - Just find
-
+# Ourikas
 [![Join the chat at https://gitter.im/Ourikas/ourikas](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Ourikas/ourikas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Ourikas is place to find places.
-You can use it to quickly find contact information of companies and services. Browse to the app at [http://ourikas.github.io](http://ourikas.github.io).
+Ourikas é um app para busca de empresas e serviços. Tem o objetivo de ser simples, rápido útil. Você pode acessar a versão atualmente em produção em [http://ourikas.github.io](http://ourikas.github.io).
 
-## Getting Started
 
-To get you started you can simply clone the ourikas repository and install the dependencies:
+## Iniciando
 
-### Prerequisites
+Para iniciar você pode simplesmente clonar o repositório do ourikas e instalar todas as dependências.
 
-You need git to clone the ourikas repository. You can get git from
-[http://git-scm.com/](http://git-scm.com/).
+### Pré-requisitos
 
-We also use a number of node.js tools to initialize and test ourikas. You must have node.js and
-its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
+Você precisa do git para clonar o repositório do ourikas. Você pode conseguir o git em [http://git-scm.com/](http://git-scm.com/).
 
-### Clone ourikas
+Nós também usamos algumas ferramentas do node.js para inicializar e testar o ourikas. Você tem quer ter o node.js e o seu gerenciador de pacotes (npm) instalados. Você pode conseguir eles em [http://nodejs.org/](http://nodejs.org/).
 
-Clone the ourikas repository using [git][git]:
+
+### Clone o ourikas
+
+Clone o repositório do ourikas usando o [git][git]:
+
 
 ```
 git clone https://github.com/ourikas/ourikas.git
 cd ourikas
 ```
 
-### Install Dependencies
+### Instale as Dependências
 
-We have two kinds of dependencies in this project: tools and libraries/frameworks code.  The tools help
-us manage and test the application.
+Nós temos dois tipos de dependências nesse projeto: ferramentas e bibliotecas/frameworks. As ferramentas ajudam a gerenciar e testar p app.
 
-* We get the tools we depend upon via `npm`, the [node package manager][npm].
-* We get the angular code via `bower`, a [client-side code package manager][bower].
+* Conseguimos as ferramentas de que dependemos via `npm`, o [gerenciador de pacotes do node][npm].
+* Conseguimos as bibliotecas e framworks via `bower`, um [gerenciador de pacotes de código client-side][bower].
 
-We have preconfigured `npm` to automatically run `bower` so we can simply do:
+Pré-configuramos o `npm` para automaticamente rodar o `bower` então podemos simplesmente rodar o comando:
 
 ```
 npm install
 ```
 
-Behind the scenes this will also call `bower install`.  You should find that you have two new
-folders in your project.
+Por trás das cortinas isso também vai rodar  `bower install`.  Você deve encontrar dois novos diretórios em seu projeto.
 
-* `node_modules` - contains the npm packages for the tools we need
-* `app/bower_components` - contains the angular framework files
+* `node_modules` - contém os pacotes npm das ferramentas que precisamos
+* `app/bower_components` - contém as bibliotecas e frameworks
 
-*Note that the `bower_components` folder would normally be installed in the root folder but
-ourikas changes this location through the `.bowerrc` file.  Putting it in the app folder makes
-it easier to serve the files by a webserver.*
+## Servindo a aplicação
 
-### Run the Application
+Enquanto o ourikas é um aplicação client-side-only, sendo possível rodar sem um backend e consequentemente não precisando de um webserver, nós recomendamos rodar o projeto num servidor durante o desenvolvimento para evitar problemas com restrições de segurança (sandbox) nos browsers. As inplementações de sandbox variam entre os browsers, mas geralmente previne coisas como cookies, xhr, etc de funcionar corretamente quando uma página html é aberta no equema `file://` ao invés de `http://`.
 
-We have preconfigured the project with a simple development web server.  The simplest way to start
-this server is:
+
+### Rodando o App durante o desenvolvimento
+
+O ourikas vem pré-configurado com um webserver local para desenvolvimento. É um plugin do  [gulp][gulp]
+chamado [gulp-connect][gulp-connect]. Você pode iniciar o webserver com:
+
 
 ```
 gulp serve
 ```
 
-Now browse to the app at `http://localhost:8000`.
+Agora aponte seu navegador para  `http://localhost:8000`.
 
 
 
@@ -69,104 +68,67 @@ Now browse to the app at `http://localhost:8000`.
 
 ```
 app/
-  js/                   --> all of the javascript source files for the application
-  sass/                 --> all of the stylesheet source files for the application
-  index.html            --> app layout file (the main html template file of the app)
-karma.conf.js         --> config file for running unit tests with Karma
-e2e-tests/            --> end-to-end tests
-  protractor-conf.js    --> Protractor config file
-  scenarios.js          --> end-to-end scenarios to be run by Protractor
+  js/                   --> todos os arquivos javascript do app
+  sass/                 --> todos os arquivos de estilo do app
+  index.html            --> arquivo de layout do app (principal template html do app)
+karma.conf.js         --> arquivo de configuração para rodar os testes unitários com o Karma
+e2e-tests/            --> testes end-to-end
+  protractor-conf.js    --> arquivo de configuração do Protractor
+  scenarios.js          --> cenários end-to-end para serem rodados com o Protractor
 ```
 
 ## Testing
 
-There are two kinds of tests in the ourikas application: Unit tests and End to End tests.
+Exitem dois timpos de testes no app ourikas: Testes Unitários e Testes End to End.
 
-### Running Unit Tests
+###  Rodando os Testes Unitários
 
-The ourikas app comes preconfigured with unit tests. These are written in
-[Jasmine][jasmine], which we run with the [Karma Test Runner][karma]. We provide a Karma
-configuration file to run them.
+O ourikas vem pré-configurado com testes unitários. Estes são escritos em [Jasmine][jasmine] e rodamos com o  [Karma Test Runner][karma].
 
-* the configuration is found at `karma.conf.js`
-* the unit tests are found next to the code they are testing and are named as `..._test.js`.
+* a configuração é encontrada em `karma.conf.js`
+* os testes unitários são encontrados próximos ao código  que eles estão testando e são nomeados como `..._test.js`.
 
-The easiest way to run the unit tests is to use the supplied npm script:
+A forma mais fácil de rodar os testes unitários é usando um script npm:
 
 ```
 npm test
 ```
 
-This script will start the Karma test runner to execute the unit tests. Moreover, Karma will sit and
-watch the source and test files for changes and then re-run the tests whenever any of them change.
-This is the recommended strategy; if your unit tests are being run every time you save a file then
-you receive instant feedback on any changes that break the expected code functionality.
+Esse script vai iniciar o Karma test runner para executar os testes unitários. Além disso ficará observando os arquivos de teste e quando houver alguma mudança e assim que haja alguma alteração rodará os testes novamente.
+Essa é a estratégia recomendada; se os testes unitários estão sendo rodados sempre que você salva um arquivo então você recebe feedback instantâneo em qualquer mudança que eventualmente quebre a funcionalidade esperada do código.
 
-You can also ask Karma to do a single run of the tests and then exit.  This is useful if you want to
-check that a particular version of the code is operating as expected.  The project contains a
-predefined script to do this:
+Você pode fazer com que o Karma rode os testes apenas uma vez. Isso é útil se você quer checar se uma versão particular do código está funcionando como o esperado. O projeto contém um script para isso:
 
 ```
 npm run test-single-run
 ```
 
 
-### End to end testing
+### Testes End to end
 
-The ourikas app comes with end-to-end tests, again written in [Jasmine][jasmine]. These tests
-are run with the [Protractor][protractor] End-to-End test runner.  It uses native events and has
-special features for Angular applications.
+O ourikas vem com testes end-to-end, que também são escritos em [Jasmine][jasmine]. Esses testes são rodados com o [Protractor][protractor] End-to-End test runner.
 
-* the configuration is found at `e2e-tests/protractor-conf.js`
-* the end-to-end tests are found in `e2e-tests/scenarios.js`
+* o arquivo de configuração está em `e2e-tests/protractor-conf.js`
+* os aquivos de testes end-to-end estão em `e2e-tests/scenarios.js`
 
-Protractor simulates interaction with our web app and verifies that the application responds
-correctly. Therefore, our web server needs to be serving up the application, so that Protractor
-can interact with it.
+Protractor interage com nossa aplicação e verifica se ela responde corretamente. Além disso nosso web server procisa está servindo a aplicação para que o Protractor possa interagir com ela.
 
 ```
-npm start
+gulp serve 
 ```
 
-In addition, since Protractor is built upon WebDriver we need to install this.  The ourikas
-project comes with a predefined script to do this:
-
-```
-npm run update-webdriver
-```
-
-This will download and install the latest version of the stand-alone WebDriver tool.
-
-Once you have ensured that the development web server hosting our application is up and running
-and WebDriver is updated, you can run the end-to-end tests using the supplied npm script:
+Uma vez que você verificou que o servidor de desenvolvimento está rodando você pode usar esse comando npm:
 
 ```
 npm run protractor
 ```
 
-This script will execute the end-to-end tests against the application being hosted on the
-development server.
+Esse script irá executar os tests end-to-end na aplicação servida pelo webserver.
 
-## Serving the Application Files
-
-While angular is client-side-only technology and it's possible to create angular webapps that
-don't require a backend server at all, we recommend serving the project files using a local
-webserver during development to avoid issues with security restrictions (sandbox) in browsers. The
-sandbox implementation varies between browsers, but quite often prevents things like cookies, xhr,
-etc to function properly when an html page is opened via `file://` scheme instead of `http://`.
-
-
-### Running the App during Development
-
-The ourikas project comes preconfigured with a local development webserver.  It is a [gulp][gulp]
-plugin called [gulp-connect][gulp-connect]. You can start this webserver with `gulp serve`.
-
-Alternatively, you can choose to configure your own webserver, such as apache or nginx. Just
-configure your server to serve the files under the `app/` directory.
 
 ## Contact
 
-For more information on ourikas please check out https://gitter.im/Ourikas
+Para mais informações entre no chat do projeto em https://gitter.im/ourikas
 
 [git]: http://git-scm.com/
 [bower]: http://bower.io
