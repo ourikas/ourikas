@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ourikas/ourikas.png?label=ready&title=Ready)](https://waffle.io/ourikas/ourikas)
 [![Build Status](https://snap-ci.com/Ourikas/ourikas/branch/master/build_image)](https://snap-ci.com/Ourikas/ourikas/branch/master)
 
 # Ourikas
