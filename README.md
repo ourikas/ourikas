@@ -58,7 +58,7 @@ chamado [gulp-connect][gulp-connect]. Você pode iniciar o webserver com:
 
 
 ```
-gulp serve
+npm start
 ```
 
 Agora aponte seu navegador para  `http://localhost:8000`.
@@ -115,7 +115,7 @@ O ourikas vem com testes end-to-end, que também são escritos em [Jasmine][jasm
 Protractor interage com nossa aplicação e verifica se ela responde corretamente. Além disso nosso web server procisa está servindo a aplicação para que o Protractor possa interagir com ela.
 
 ```
-gulp serve 
+npm start
 ```
 
 Uma vez que você verificou que o servidor de desenvolvimento está rodando você pode usar esse comando npm:
