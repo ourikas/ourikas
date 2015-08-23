@@ -64,6 +64,6 @@ gulp.task('watch', function () {
   gulp.watch('./app/**/*', ['manifest']);
 });
 
-gulp.task('build', ['sass', 'js']);
+gulp.task('build', ['sass', 'js', 'manifest']);
 
-gulp.task('serve', ['connect', 'watch']);
+gulp.task('serve', ['connect', 'build', 'watch']);
