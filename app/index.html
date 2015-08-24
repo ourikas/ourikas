@@ -10,6 +10,7 @@
   <title>Ourikas</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="/"/>
   <link rel="icon" type="image/png" href="http://www.ourikas.com/public/img/faveicon.png">
   <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
   <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
@@ -21,39 +22,30 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
 
-  <main ng-controller="SearchController">
-    <header class="full-page">
+  <main ng-controller="AppController">
+    <header>
       <h1>Ourikas</h1>
-      <input class="search-field" placeholder="buscar..." type="search" ng-model="searchTerm" autofocus>
+
+      <input class="search-field"
+              placeholder="buscar..."
+              type="search"
+              ng-model="searchTerm.text"
+              ng-change="goToSearchResult()"
+              autofocus>
     </header>
 
-    <ul class="search-result">
-      <li ng-repeat="c in searchResult" class="company">
-        <img ng-src="{{c.thumb}}" alt="" />
+    <div ng-view></div>
 
-        <h3 ng-bind="c.name"></h3>
-        <p ng-bind="c.description" class="description"></p>
-        <p>
-          <a href="{{'tel:' + p}}" class="phone" ng-repeat="p in c.contact.phones" ng-bind="p"></a>
-        </p>
-      </li>
-    </ul>
+    </div>
   </main>
 
   <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-route.js"></script>
+  <script src="bower_components/angular-google-analytics/dist/angular-google-analytics.min.js"></script>
+  <script src="bower_components/underscore/underscore-min.js"></script>
   <script src="app.js"></script>
 
-  <!-- Google Analytics -->
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-45365040-3', 'auto');
-    ga('send', 'pageview');
-  </script>
 </body>
 </html>

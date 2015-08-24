@@ -71,6 +71,7 @@ Agora aponte seu navegador para  `http://localhost:8000`.
 app/
   js/                   --> todos os arquivos javascript do app
   sass/                 --> todos os arquivos de estilo do app
+  templates/            --> páginas html para as rotas do app
   index.html            --> arquivo de layout do app (principal template html do app)
 karma.conf.js         --> arquivo de configuração para rodar os testes unitários com o Karma
 e2e-tests/            --> testes end-to-end

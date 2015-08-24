@@ -1,30 +1,52 @@
 'use strict';
 
-// Declare app level module which depends on views, and components
-angular.module('myApp', [])
-
-.controller('SearchController', ['$scope', '$http', '$filter', function($scope, $http, $filter) {
-    var containTerm = function(company) {
-      return company.name
-        .toLowerCase()
-        .search($scope.searchTerm.toLowerCase()) > -1;
-    }
+app.controller('SearchController',
+  ['$scope',
+  '$http',
+  '$filter',
+  '$routeParams',
+  'SearchTerm',
+  function(
+    $scope,
+    $http,
+    $filter,
+    $routeParams,
+    SearchTerm) {
 
     $scope.companies = [];
-    $scope.searchTerm = null;
+    $scope.searchTerm = SearchTerm;
+
     $scope.searchResult = [];
 
-    $scope.$watch('searchTerm', function(term) {
-      console.log(term);
-      $scope.searchResult = $filter('limitTo')($scope.companies.filter(containTerm), 20);
+    $scope.$watch('searchTerm.text', function(term) {
+      $scope.updateQuery();
     });
+
+    $scope.updateQuery = function() {
+      var result = $scope.find($scope.companies, $scope.searchTerm.text);
+      $scope.searchResult = $filter('limitTo')(result, 20);
+    }
+
+    $scope.find = function (list, text) {
+      return _.filter(list, function (item) {
+        return item.name.toLowerCase().indexOf(text.toLowerCase()) > -1
+      })
+    }
 
     $http.get('companies.json')
       .success(function(data){
         $scope.companies = data;
+        $scope.updateQuery();
       })
       .error(function(error) {
         console.log(error);
       });
 
+}])
+
+.factory('SearchTerm', [function(){
+  var term;
+  return {
+    text: term
+  };
 }]);

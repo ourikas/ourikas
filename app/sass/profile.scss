@@ -1,0 +1,46 @@
+@import "variables";
+
+.company-profile {
+  text-align: center;
+  background: $primary-color;
+  font-size: 1.3em;
+  padding: 50px 10px;
+  color: white;
+
+  img {
+    float: none;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  h3 {
+    font-size: 1em;
+    color: white;
+  }
+
+  .description {
+    font-size: .8em;
+    color: white;
+  }
+
+  .phone {
+    color: $primary-color;
+    margin: 10px;
+    display: inline-block;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 3px;
+    background-color: white;
+    text-decoration: none;
+
+    &:active {
+      background-color: #adcff7;
+    }
+  }
+}

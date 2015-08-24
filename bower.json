@@ -10,5 +10,11 @@
     "angular-loader": "~1.4.0",
     "angular-mocks": "~1.4.0",
     "html5-boilerplate": "~5.2.0"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "angular-google-analytics": "~0.0.18",
+    "angular-route": "~1.4.4",
+    "underscore": "~1.8.3"
   }
 }

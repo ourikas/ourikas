@@ -1,0 +1,96 @@
+@import "variables";
+
+.search-result {
+  padding: 0;
+  margin: 0;
+  background: white;
+
+  .company {
+    list-style: none;
+    padding: 10px;
+    margin-bottom: 3px;
+    clear: both;
+    min-height: 80px;
+    transition-duration: .3s;
+    background: #f4f7f9;
+
+    a {
+      text-decoration: none;
+    }
+
+    h3 {
+      font-size: 1em;
+      color: #34495e;
+    }
+
+    p,
+    h3 {
+      margin: 0;
+      padding: 0;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .description {
+      font-size: .8em;
+      color: #7f8c8d;
+    }
+
+    .phone {
+      color: $primary-color;
+      margin-right: 12px;
+      display: none;
+    }
+
+    img {
+      width: 61px;
+      height: 61px;
+      float: left;
+      margin-right: 10px;
+      border-radius: 50%;
+      transition-duration: .3s;
+    }
+
+    &.company-full {
+      text-align: center;
+      background: $primary-color;
+      font-size: 1.3em;
+      padding: 50px 10px;
+
+      img {
+        float: none;
+        margin: 10px;
+        width: 150px;
+        height: 150px;
+      }
+
+      p,
+      h3 {
+        white-space: normal;
+        color: white;
+      }
+
+      h3 {
+        margin: 13px 0;
+      }
+
+      p {
+        margin: 10px 0;
+        .phone {
+          display: inline-block;
+          font-weight: bold;
+          padding: 7px 20px;
+          border-radius: 3px;
+          background-color: white;
+          text-decoration: none;
+          margin: 7px;
+
+          &:active {
+            background-color: #adcff7;
+          }
+        }
+      }
+    }
+  }
+}

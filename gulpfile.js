@@ -4,6 +4,7 @@ var gulp = require('gulp'),
     manifest = require('gulp-manifest'),
     concat = require('gulp-concat'),
     uglify = require('gulp-uglify'),
+    order = require('gulp-order'),
     minifyCss = require('gulp-minify-css');
 
 gulp.task('manifest', function(){
@@ -19,6 +20,8 @@ gulp.task('manifest', function(){
       cache: [
               '//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js',
               '//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js',
+              'bower_components/angular-google-analytics/dist/angular-google-analytics.min.js',
+              'bower_components/underscore/underscore-min.js',
               'bower_components/html5-boilerplate/dist/css/normalize.css',
               'bower_components/html5-boilerplate/dist/css/main.css'
               ],
@@ -40,6 +43,7 @@ gulp.task('sass', function () {
   gulp.src('./app/sass/**/*.scss')
     .pipe(sass().on('error', sass.logError))
     .pipe(minifyCss())
+    .pipe(concat('app.css'))
     .pipe(gulp.dest('./app/'))
     .pipe(connect.reload());
 });
@@ -50,7 +54,11 @@ gulp.task('html', function () {
 });
 
 gulp.task('js', function() {
-  return gulp.src('./app/js/*.js')
+  return gulp.src(['./app/js/**/*.js'])
+    .pipe(order([
+      'AppController.js',
+      '**/*.js',
+    ], {base: './app/js/'}))
     .pipe(concat('app.js'))
     .pipe(uglify())
     .pipe(gulp.dest('./app/'))

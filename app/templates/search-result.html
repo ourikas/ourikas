@@ -1,0 +1,12 @@
+<ul class="search-result">
+  <li ng-repeat="c in searchResult" class="company">
+    <a href="#/{{c.alias}}"><img ng-src="{{c.thumb}}" alt="{{c.name}}" /></a>
+
+    <a href="#/{{c.alias}}"><h3 ng-bind="c.name"></h3></a>
+    <p ng-bind="c.description" class="description"></p>
+    <p>
+      <a href="{{'tel:' + p}}" class="phone" ng-repeat="p in c.contact.phones" ng-bind="p"></a>
+    </p>
+
+  </li>
+</ul>
