@@ -11,8 +11,9 @@ gulp.task('manifest', function(){
   gulp.src(['./app/index.html',
             './app/app.css',
             './app/app.js',
-            './app/companies.json'
-            ])
+            './app/companies.json',
+            './app/templates/**/*.html'
+          ], {base: './app'})
     .pipe(manifest({
       hash: true,
       preferOnline: false,
@@ -20,8 +21,10 @@ gulp.task('manifest', function(){
       cache: [
               '//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js',
               '//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js',
+              '//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-route.js',
               'bower_components/angular-google-analytics/dist/angular-google-analytics.min.js',
               'bower_components/underscore/underscore-min.js',
+              'bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js',
               'bower_components/html5-boilerplate/dist/css/normalize.css',
               'bower_components/html5-boilerplate/dist/css/main.css'
               ],
