@@ -1,6 +1,5 @@
 npm install
-gulp build
-gulp manifest
+npm run build
 rm -Rf tmp-deploy
 mkdir tmp-deploy
 cp -R .git tmp-deploy

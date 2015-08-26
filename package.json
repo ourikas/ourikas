@@ -30,6 +30,7 @@
     "postinstall": "bower install",
     "prestart": "npm install",
     "start": "gulp serve",
+    "build": "gulp build && gulp manifest",
     "pretest": "npm install",
     "test": "karma start karma.conf.js",
     "test-single-run": "karma start karma.conf.js  --single-run",
