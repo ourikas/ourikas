@@ -5,6 +5,11 @@
   <a href="#/{{company.alias}}"><h3 ng-bind="company.name"></h3></a>
   <p ng-bind="company.description" class="description"></p>
   <p>
-    <a href="{{'tel:' + p}}" class="phone" ng-repeat="p in company.contact.phones" ng-bind="p"></a>
+    <a href="{{'tel:' + p}}"
+     class="phone"
+     ng-repeat="p in company.contact.phones"
+     ng-bind="p"
+     ga-track-event="['Phone', 'click', '{{p}}']">
+   </a>
   </p>
 </div>
